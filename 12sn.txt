@@ -1,4 +1,4 @@
-[uBlock Origin v1.34]
+[uBlock Origin v1.36.2]
 ! Title: 1️⃣2️⃣ns 
 ! Version:1.36.2
 ! Last modified:
