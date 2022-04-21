@@ -1,4 +1,4 @@
-[uBlock Origin v1.36.2]
+[uBlock Origin v1.42.4]
 ! Title: 1️⃣2️⃣ns 
 ! Version:1.36.2
 ! Last modified:
@@ -40,6 +40,8 @@ www.youtube.com###content > .ytd-rich-section-renderer.style-scope:has-text(Lear
 www.youtube.com##ytd-clarification-renderer.ytd-item-section-renderer.style-scope
 m.youtube.com##ytm-clarification-renderer.item
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+
+www.youtube.com###donation-shelf
 
 ! https://xjavsub.com
 xjavsub.com##.happy-inside-player
@@ -667,6 +669,30 @@ en.wikipedia.org###siteNotice
 ||consent-pref.trustarc.com/?type=philips_lighting_new&site=philips-lighting.com&action=notice&country=us&locale=en_US&behavior=expressed&gtm=1&layout=default_eu&privacypolicylink=%2F%2Fwww.usa.lighting.philips.com%2Fcookie-notice&cookieLink=%2F%2Fwww.usa.lighting.philips.com%2Fcookie-notice&irm=undefined&from=https://consent.trustarc.com/$subdocument
 www.usa.lighting.philips.com##.truste_overlay
 
+! 2022-02-07 https://webtor.io
+webtor.io##.ad
 
+! 2022-02-08 https://animixplay.to
+animixplay.to###gsignsection
 
+! 2022-02-18 https://txxx.tube
+txxx.tube##.cookie-notify
+
+! 2022-02-21 https://apple.stackexchange.com
+apple.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-03-15 https://jizzbunker.com
+jizzbunker.com##.zx1p
+
+! 2022-03-28 https://askubuntu.com
+askubuntu.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-04-08 https://hdsex.org
+hdsex.org##.player__inline-ad
+
+! 2022-04-19 https://txxx.tube
+txxx.tube##.guvxvvgkfxlggxvvk
+
+! 2022-04-19 https://mzzcloud.life
+mzzcloud.life###overlay-center
 
