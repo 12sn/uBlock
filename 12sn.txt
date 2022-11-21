@@ -1,6 +1,6 @@
-[uBlock Origin v1.42.4]
+[uBlock Origin v1.45.4]
 ! Title: 1️⃣2️⃣ns 
-! Version:1.42.4
+! Version:1.45.2
 ! Last modified:
 ! Expires: 1 hour
 ! Homepage:
@@ -9767,8 +9767,6 @@ hanime.tv##.landing__content > div > .active.mobile.htvad.mb-5
 hanime.tv##.mt-2.column.flex.action-bar.native_1.mobile.htvnad1
 hanime.tv##.site-description
 hanime.tv##.user_comments__post
-hanime.tv##.user-options
-hanime.tv###add_to_playlist_btn
 hanime.tv##+js(set, Cookies.get, trueFunc)
 hanime.tv##div.nav-drawer-list.list:nth-of-type(3)
 hanime.tv##div.nav-drawer-list.list:nth-of-type(4)
