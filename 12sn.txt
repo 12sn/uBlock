@@ -1,6 +1,6 @@
 [uBlock Origin v1.45.2]
-! Title: 1️⃣2️⃣ns 
-! Version:1.45.2
+! Title: 1️⃣2️⃣ns
+! Version: 1.51.0
 ! Last modified:
 ! Expires: 1 hour
 ! Homepage:
@@ -8,7 +8,6 @@
 !【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】!
 
 ! ------ 𝗘𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝗮𝗹 𝗙𝗶𝗹𝘁𝗲𝗿𝘀 𝗧𝗲𝘀𝘁 ------ !
-
 ://www.google.*/search^$removeparam=entrypoint
 ://www.google.*/search^$removeparam=kgs
 ://www.google.*/search^$removeparam=shndl
@@ -185,7 +184,6 @@
 ##.backtopbutton:not(html):not(body)
 ##.BackToTop
 ##.backToTop:not(html):not(body)
-##.backtotop:not(html):not(body)
 ##.backToTopButton:not(html):not(body)
 ##.backToTopContainer:not(html):not(body)
 ##.bam-social
@@ -322,22 +320,17 @@
 ##.cookiealert
 ##.cookiebanner:not(html):not(body)
 ##.CookieBar
-##.cookieBar
-##.cookiebar
 ##.cookieBox
 ##.cookieConsent
-##.cookieconsent
 ##.cookieConsent-popOut
 ##.cookieconsent-wrap
 ##.cookiedOuter
 ##.cookieinfo
 ##.cookieInfo:not(body)
 ##.CookieMessage
-##.cookieMessage
 ##.cookieMessageDiv
 ##.CookieNotificationTopBar
 ##.cookiePolicy
-##.cookiepolicy
 ##.cookies__banner
 ##.cookies__wrapper
 ##.cookies_bar
@@ -459,7 +452,6 @@
 ##.facebookLink
 ##.facebookShare
 ##.FacebookShareButton
-##.facebookShareButton
 ##.fb_digioh-margin
 ##.fb_digioh-overlay
 ##.fb_digioh-overlay-fixed
@@ -490,7 +482,6 @@
 ##.fb-widget
 ##.fb.social-share-link
 ##.fbButton
-##.fbbutton
 ##.fblike
 ##.fbShare
 ##.fbshare_gm_p
@@ -579,7 +570,6 @@
 ##.gotop-btn:not(html):not(body)
 ##.gotop:not(html):not(body)
 ##.goToTop:not(html):not(body)
-##.gototop:not(html):not(body)
 ##.gplus-link
 ##.gplusone
 ##.gs-bar
@@ -714,7 +704,6 @@
 ##.leadinModal
 ##.lf-social-bookmarks
 ##.linkedIn
-##.linkedin
 ##.linkedin-icon-wrap
 ##.linkedin-share
 ##.LinkedInShareButton
@@ -955,9 +944,7 @@
 ##.scrolltofixed:not(html):not(body)
 ##.scrollTop-btn:not(html):not(body)
 ##.scrollTop:not(html):not(body)
-##.scrolltop:not(html):not(body)
 ##.scrollToTop:not(html):not(body)
-##.scrolltotop:not(html):not(body)
 ##.scrollup:not(html):not(body)
 ##.sd-gallery-share-toolbar
 ##.sd-news-main-footer
@@ -1027,7 +1014,6 @@
 ##.share-button
 ##.share-button-group
 ##.Share-buttons
-##.share-buttons
 ##.share-buttons-article
 ##.share-buttons-bar
 ##.share-buttons-container
@@ -1117,9 +1103,6 @@
 ##.shareArticleButtons
 ##.shareArticles
 ##.ShareBar
-##.Sharebar
-##.shareBar
-##.sharebar
 ##.sharebar_condensed
 ##.sharebar-fixate-col
 ##.sharebar-provider
@@ -1141,9 +1124,7 @@
 ##.ShareElement
 ##.shareFacebook
 ##.ShareIcon
-##.shareIcon
 ##.shareIcons
-##.shareicons
 ##.shareinpost
 ##.shareit
 ##.shareline
@@ -1163,14 +1144,12 @@
 ##.sharesheet
 ##.sharesheet-content
 ##.shareThis
-##.sharethis
 ##.sharethis_container
 ##.sharethis-buttons
 ##.sharethis-inline-share-buttons
 ##.sharethis-wrapper
 ##.sharetool
 ##.ShareTools
-##.sharetools
 ##.sharetools-horizontal
 ##.sharetools-video-container
 ##.shareTotal
@@ -1181,7 +1160,6 @@
 ##.sharewrapper
 ##.sharify-container
 ##.Sharing
-##.sharing
 ##.sharing__list
 ##.sharing_controls
 ##.sharing_furniture
@@ -1455,14 +1433,10 @@
 ##.socialaccounts
 ##.socialarea
 ##.SocialBar
-##.socialBar
-##.socialbar
 ##.socialblock
 ##.socialbox
 ##.socialbuttonholder-fixed
 ##.SocialButtons
-##.socialButtons
-##.socialbuttons
 ##.socialCard
 ##.socialCardSidebar
 ##.socialConnect
@@ -1470,16 +1444,13 @@
 ##.socialfooter
 ##.socialIcon
 ##.socialIcons
-##.socialicons
 ##.socialicons-container
 ##.socialinks
 ##.socialite
 ##.socialite-widget
 ##.socialite-widget-item
 ##.socialLinks
-##.sociallinks
 ##.socialMedia
-##.socialmedia
 ##.socialmediabottom
 ##.socialMediaBox
 ##.socialMediaLinks
@@ -1492,12 +1463,9 @@
 ##.socials
 ##.socials-list
 ##.SocialShare
-##.socialShare
-##.socialshare
 ##.socialsharebar
 ##.socialshares
 ##.SocialSharing
-##.socialSharing
 ##.socialToolbar
 ##.socialTop
 ##.sp-back-to-top:not(html):not(body)
@@ -1611,7 +1579,6 @@
 ##.topbar--socials
 ##.topbar-social
 ##.topButton
-##.topbutton
 ##.topTop
 ##.totop
 ##.toup
@@ -1757,15 +1724,9 @@
 ###back-to-top:not(html):not(body)
 ###back2Top:not(html):not(body)
 ###backTop:not(html):not(body)
-###backtop:not(html):not(body)
 ###backtotop-scroll:not(html):not(body)
 ###BackToTop:not(html):not(body)
-###BacktoTop:not(html):not(body)
-###backToTop:not(html):not(body)
-###backtoTop:not(html):not(body)
-###backtotop:not(html):not(body)
 ###BackToTopBtn:not(html):not(body)
-###backToTopBtn:not(html):not(body)
 ###backToTopDiv:not(html):not(body)
 ###backtotopinnercontainer:not(html):not(body)
 ###block-mailchimp-signup-newsletter
@@ -1830,29 +1791,23 @@
 ###cookie-warning-gdpr
 ###cookieAlert
 ###cookieBanner:not(html):not(body)
-###cookiebanner:not(html):not(body)
 ###cookiebar
 ###cookieChoiceBar
 ###cookieChoiceInfo
 ###cookieCompliance
 ###cookieConsent
-###cookieconsent
 ###cookieCont
 ###cookieContainer
 ###cookieFrame
 ###cookieInfo
-###cookieinfo
 ###cookieInfoMsgWrapper
 ###cookielaw
 ###cookieMessage
-###cookiemessage
 ###cookieMessageOuter
 ###cookieNote
 ###cookieNotice
-###cookienotice
 ###cookienotif
 ###cookiePolicy
-###cookiepolicy
 ###cookiepopup
 ###cookies
 ###cookies_message
@@ -1940,10 +1895,7 @@
 ###go-top-button:not(html):not(body)
 ###go-top:not(html):not(body)
 ###goTop:not(html):not(body)
-###gotop:not(html):not(body)
 ###goToTop:not(html):not(body)
-###gotoTop:not(html):not(body)
-###gototop:not(html):not(body)
 ###GoUpWrapper:not(html):not(body)
 ###gp-to-top:not(html):not(body)
 ###gs-social-follow
@@ -2069,13 +2021,10 @@
 ###scroll-top:not(html):not(body)
 ###scroll-up:not(html):not(body)
 ###scrollTop:not(html):not(body)
-###scrolltop:not(html):not(body)
 ###scrollTopBtn:not(html):not(body)
 ###scrollToTop:not(html):not(body)
-###scrolltotop:not(html):not(body)
 ###scrollToTopBtn:not(html):not(body)
 ###scrollUp:not(html):not(body)
-###scrollup:not(html):not(body)
 ###share_bar
 ###share_button_row
 ###share_container
@@ -2118,7 +2067,6 @@
 ###share-unit
 ###share:not(html):not(body)
 ###shareBar
-###sharebar
 ###sharebar-modal-redesign
 ###sharebar-social
 ###shareBarWrapper
@@ -2282,7 +2230,6 @@
 ###TopShareMenu
 ###topSocialPanel
 ###toTop
-###totop
 ###ts-back-to-top
 ###tt_mobile_banner
 ###tve_cta
@@ -2585,7 +2532,6 @@
 ||coupang.com^$removeparam=wTime
 ||cyber-ad01.cc^$removeparam=ip
 ||daftsex.com/img/twitter.png$image
-||daftsex.com/img/twitter.png$image
 ||deep.bi^$xmlhttprequest,domain=hrw.org
 ||deepdiscount.com^$removeparam=bid
 ||deezer.com^$removeparam=deferredFl
@@ -2711,7 +2657,6 @@
 ||humblebundle.com^$removeparam=mcID
 ||humblebundle.com^$removeparam=zmg_code
 ||i.imgur.com/FRXqJCI.jpg$image
-||i.imgur.com/UUijo0H.gif$image
 ||i.imgur.com/UUijo0H.gif$image
 ||ifixit.com^$removeparam=sponsor
 ||ikea.com/*/images/products^$removeparam=f
@@ -2901,18 +2846,10 @@
 ||qq.com^$removeparam=ptag
 ||qwant.com^$removeparam=client
 ||rabbitstream.net/images/close.png$image
-||rabbitstream.net/images/close.png$image
 ||rare.us/widgets/sharing-v2$subdocument
 ||real-123movies.best/addons/$image
 ||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
-||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
-||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
-||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
-||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
-||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
-||real-123movies.best/addons/sdahsdahydfs7asds.gif$image
 ||real-123movies.best/dist/image/header/login.jpg$image
-||real-123movies.best/dist/image/scrollBtnTop.png$image
 ||real-123movies.best/dist/image/scrollBtnTop.png$image
 ||realclearpolitics.com/*/ad_slots.jsonp$script,first-party
 ||realclearpolitics.com/*/instart.js$script,first-party
@@ -3060,7 +2997,6 @@
 ||www.xxxc2c.org/in/?track=default&tour=x1Rd&campaign=T0owj&c=4&p=0&gender=x&tag=teen&disable_sound=True$subdocument
 ||www.xxxc2c.org/in/?track=default&tour=x1Rd&disable_sound=True&campaign=T0owj&c=4&p=0&gender=x&tag=brunette$subdocument
 ||www.xxxc2c.org/in/?track=default&tour=x1Rd&disable_sound=True&campaign=T0owj&c=4&p=0&gender=x&tag=couple$subdocument
-||www.xxxc2c.org/in/?track=embed&tour=sEAI&campaign=T0owj&disable_sound=1&mobileRedirect=auto&embed_video_only=1$subdocument
 ||www.xxxc2c.org/in/?track=embed&tour=sEAI&campaign=T0owj&disable_sound=1&mobileRedirect=auto&embed_video_only=1$subdocument
 ||www.youtube.com/live_chat_replay?continuation=op2w0wRiGlhDaWtxSndvWVZVTlpWbFUyY2sxdlpHeEhlSFpLWW5ONlEyTnNSMGQzRWdzNFVuaHdUVTh6TVMxVE5Cb1Q2cWpkdVFFTkNnczRVbmh3VFU4ek1TMVROQ0FCQAFyAggEeAE%253D$subdocument
 ||xbox.com^$removeparam=xr
@@ -3290,7 +3226,6 @@ $removeparam=adj_creative
 $removeparam=admitad_uid
 $removeparam=adp,domain=shein.com
 $removeparam=Adposition
-$removeparam=adposition
 $removeparam=adref,domain=ancestry.*
 $removeparam=ads_adid
 $removeparam=ads_cmpid
@@ -3352,11 +3287,9 @@ $removeparam=affiliateCustomId
 $removeparam=affiliates_ad_id
 $removeparam=afflid
 $removeparam=AFFNAME
-$removeparam=affname
 $removeparam=affSource
 $removeparam=afftag
 $removeparam=affTrack
-$removeparam=afftrack
 $removeparam=affuid
 $removeparam=afid
 $removeparam=AFID,domain=~chggtrx.com|~state.gov
@@ -3455,7 +3388,6 @@ $removeparam=cjid
 $removeparam=cjpid
 $removeparam=CJPID,domain=~keyade.com
 $removeparam=CJPIXEL
-$removeparam=cjpixel
 $removeparam=cjReq
 $removeparam=CJSID
 $removeparam=CJURL
@@ -3948,7 +3880,6 @@ $removeparam=ranLinkTypeID
 $removeparam=ranMID
 $removeparam=ranPublisherID
 $removeparam=ranSiteID
-$removeparam=ransiteID
 $removeparam=rb_clickid
 $removeparam=rbx_campaign
 $removeparam=rbx_medium
@@ -4151,7 +4082,6 @@ $removeparam=track_click
 $removeparam=track_keyword
 $removeparam=tracker,domain=dustdeal.nl|batteryupgrade.*
 $removeparam=trackID
-$removeparam=trackid
 $removeparam=tracking_source
 $removeparam=tracking_type
 $removeparam=tracking_user
@@ -7040,7 +6970,6 @@ crunchify.com##.arrowNav
 crunchify.com##.crunchify-jtop
 crunchify.com###crunchy-sharing-float
 crutchfield.com###emailSignupOverlay
-crutchfield.com###emailSignupOverlay
 cruxnow.com##.move.sticky.menu_container:style(position: relative !important;)
 crypto-loot.com##.nav-menu:style(position: absolute !important;)
 cryptocoinsnews.com##.headroom--pinned.headroom--not-top.headroom.mini-bar
@@ -9001,8 +8930,6 @@ framablog.org###fnav:style(position: absolute !important;)
 framablog.org###wtr-progress
 france24.com,rfi.fr###didomi-host
 france24.com,rfi.fr##body.didomi-popup-open > :not(#didomi-host):style(filter: unset !important;)
-france24.com,rfi.fr##body.didomi-popup-open > :not(#didomi-host):style(filter: unset !important;)
-france24.com,rfi.fr##body.didomi-popup-open:style(position: unset !important; overflow: auto !important;)
 france24.com,rfi.fr##body.didomi-popup-open:style(position: unset !important; overflow: auto !important;)
 france24.com##.article-action, .m-share-bar
 france24.com##.header, .on-air-board-outer, .short-cuts-outer:style(position: relative !important; top: 0 !important;)
@@ -10481,8 +10408,6 @@ influxdata.com##.contact_sale:style(position: relative !important; bottom: 0 !im
 infomine.com###fade, #popupBlock
 inforcecomputing.com##.contactscroll
 information.dk,kristeligt-dagblad.dk##.noScroll, .noScroll body:style(overflow: auto !important;)
-information.dk,kristeligt-dagblad.dk##.noScroll, .noScroll body:style(overflow: auto !important;)
-information.dk,kristeligt-dagblad.dk###cookie-information-template-wrapper
 information.dk,kristeligt-dagblad.dk###cookie-information-template-wrapper
 information.dk##.masthead
 information.dk##.s-h > .s-h--copy
@@ -13166,7 +13091,6 @@ nordstrom.com##.rfx_2Hle-.rfx_OOTKW.rfx_25d6c.rfx_QDHp6.rfx_gS72H.rfx_1rJbt:styl
 nordstrom.com##.Z2lyN7e.Z1E0VGc
 nordstrom.com###rfx-main-header:style(position: relative !important; top: 0 !important;)
 nordstromrack.com##.nr-home__email-collector
-nordstromrack.com##.nr-home__email-collector
 northernvirginiamag.com##.style1.header:style(position: relative !important;)
 northernvirginiamag.com##.tve-leads-lightbox.tve_post_lightbox.tve_tcb2_blank
 northropgrumman.com##.slider-parallax-inner:style(position: absolute !important; transform: translateY(0px) !important;)
@@ -13543,7 +13467,6 @@ overclock.net##nav li.vbmenu_control:style(max-height: 91px !important; padding:
 overstock.com##.fixed-search-bar .grid-container-toplinks, .fixed-search-bar .grid-container-promo:style(display: block !important;)
 overstock.com##.fixed-search-bar:style(position: relative !important; top: 0 !important; padding-top: 0 !important;)
 overstock.com###newo-hd, .sticky-header:style(position: relative !important; top: 0 !important;)
-owlcation.com###stickyfooterad
 owlcation.com###stickyfooterad
 owler.com###pageless-onboarding-popup
 oxfordamerican.org##.hplace:style(height: 236px !important;)
@@ -13993,7 +13916,6 @@ popculture.com##.modernInContent
 popculture.com##.sidebar-sticky .at-middle-down, .sidebar-sticky .at-bottom:style(position: absolute !important; bottom: unset !important;)
 popculture.com###click-close
 popculture.com###newsletterModal
-popculture.com###newsletterModal
 popculture.com###player-position:style(position: absolute !important; top: 0 !important; right: unset !important; bottom: unset !important; left: 0 !important; margin: 0 !important; border: none !important; width: 100% !important; height: 100% !important;)
 popculture.com##body.pcm-public:not(.skybox-loaded):style(margin-top: 90px !important;)
 popsci.com##.__pw-btnclose-false.__pw-view-auto.pw-sticky.__pw-position-left
@@ -14029,8 +13951,6 @@ porndish.org##.main-navigation
 porndish.org##.show.button
 porndish.org##.site-footer
 pornobomba.club##.bmi0EVb-bounce-down.sticker_container > div
-pornobomba.club##footer
-pornobomba.club##footer
 pornobomba.club##footer
 pornobomba.club##main > .categories-keywords.keywords-holder
 pornobomba.club##table
@@ -17735,7 +17655,6 @@ ul.com##.header-toolbar:style(position: relative !important; top: 0 !important;)
 ulalaunch.com##.fixed.scrolledHeader:style(position: absolute !important;)
 ulta.com###hide-desk-nav, .DesktopHeader .DesktopHeader__LogoFixed .Logo, .DesktopHeader__StickyHeader:style(position: absolute !important;)
 ulta.com###js-stickyEmailSignUpFooter
-ulta.com###js-stickyEmailSignUpFooter
 ultimaterewardspoints.chase.com##.open-subnav-level2.ng-scope.hdr-lvl2-bgclr-2bg.level-2.b2s-navbar, .ur-product-nav .close-subnav-level2, .ur-product-nav .level-2 .b2s-container, .ur-product-nav .open-subnav-level2:style(height: 150px !important;)
 ultimaterewardspoints.chase.com##.ur-product-nav .item-hidden:style(visibility: visible !important;)
 ultimaterewardspoints.chase.com##.ur-product-nav .level-1 .points-section .icn-up:style(display: inline !important;)
@@ -18321,7 +18240,6 @@ wbtv.com##.story-feed
 wbur.org##.global-player, .sidebar:style(position: absolute !important;)
 wbur.org##.icon-freq--sidebar:style(width: 38px !important; margin: 0 0 -2px 8px !important;)
 wbur.org##.icon-logo--sidebar:style(width: 100px !important; margin: 0 0 10px 22px !important;)
-wbur.org##.section--takeover
 wbur.org##.section--takeover
 wbur.org##.sidebar-logo-link:style(padding: 20px 0 29px !important; margin: 0 !important; height: 103px !important;)
 wbur.org##.sidebar-logo:style(height: 103px !important;)
@@ -19275,14 +19193,11 @@ yoursports.*,yrsprts.*###streambutton, #watchMe, .w3-button[href*="a?watch="], .
 youtube.com##.appbar-guide-menu-layout, .gstl_50.sbdd_a, .js-yt-header.yt-header, ytd-mini-guide-renderer.ytd-app, app-drawer[opened=""][persistent=""], ytd-two-column-browse-results-renderer[page-subtype="history"] #secondary.ytd-two-column-browse-results-renderer:style(position: absolute !important;)
 youtube.com##.no-scroll #page-manager:style(margin-top: 0px !important)
 youtube.com##.opened
-youtube.com##.opened
 youtube.com##.opened:not(.ytcp-bulk-actions):remove()
 youtube.com##.share-panel-services, .ytp-button.ytp-share-button
 youtube.com###backgroundFrontLayer, #backgroundRearLayer:style(transform: translate3d(0px, 0px, 0px) !important;)
 youtube.com###chips-wrapper:style(position: static !important;)
 youtube.com###consent-bump
-youtube.com###consent-bump
-youtube.com###consent-bump > .ytd-consent-bump-lightbox.style-scope
 youtube.com###consent-bump > .ytd-consent-bump-lightbox.style-scope
 youtube.com###consent-bump:remove()
 youtube.com###contentContainer.app-drawer:style(padding-top: 120px !important; padding-bottom: 0 !important;)
@@ -19295,18 +19210,11 @@ youtube.com###masthead-positioner, #yt-masthead-container:style(position: relati
 youtube.com###upsell-dialog-text > a[href*="sign"]:upward(body > * > *)
 youtube.com###wrapper.app-header-layout > [slot="header"]:style(position: relative !important; left: 0 !important;)
 youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
-youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
-youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
 youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
 youtube.com##+js(json-prune, auxiliaryUi.messageRenderers.upsellDialogRenderer)
-youtube.com##+js(json-prune, auxiliaryUi.messageRenderers.upsellDialogRenderer)
-youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
 youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
 youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
-youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
-youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
-youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
 youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
 youtube.com##app-drawer:style(bottom: 0 !important; padding-bottom: 0 !important;)
 youtube.com##app-drawer[opened=""]:style(position: fixed !important;)
@@ -19314,7 +19222,6 @@ youtube.com##ytd-app[is-watch-page][scrolling_][style^="--ytd-app-fullerscreen-s
 youtube.com##ytd-feed-filter-chip-bar-renderer:style(position: static !important; margin-bottom: 0 !important;)
 youtube.com##ytd-guide-entry-renderer:style(display: block !important;)
 youtube.com##ytd-playlist-sidebar-renderer.ytd-browse:style(position: absolute !important; left: unset !important; height: 100% !important;)
-youtube.com##ytd-popup-container
 youtube.com##ytd-popup-container
 youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-renderer:has-text(/Claim Offer|Not Now|YouTube TV|live TV|Live TV|movies|sports|Try it free|unlimited DVR/)
 youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-renderer:has([href*="tv.youtube.com"])
@@ -19423,3 +19330,137 @@ zwaveproducts.com###livechat-compact-container
 zycrypto.com##.widget_bloomwidget, .widget_facebook_likebox
 zyngaplayerforums.com##.Reactions
 zyngaplayerforums.com###footer:style(position: relative !important; top: 0 !important;)
+! YouTube Shorts
+youtube.com##ytd-grid-video-renderer:has([href*="shorts"])
+youtube.com###dismissible:has([href*="shorts"])
+youtube.com##ytd-search [overlay-style="SHORTS"]:upward(ytd-video-renderer)
+youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-renderer [overlay-style="SHORTS"]:upward(ytd-grid-video-renderer)
+youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer [overlay-style="SHORTS"]:upward(ytd-item-section-renderer)
+youtube.com##.pivot-shorts.pivot-bar-item-tab
+m.youtube.com##.pivot-shorts.pivot-bar-item-tab
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
+youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
+youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
+m.youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
+m.youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
+m.youtube.com##ytd-compact-radio-renderer.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
+youtube.com##ytd-compact-radio-renderer.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
+m.youtube.com##ytm-radio-renderer
+m.youtube.com##.icon-microphone_on.mobile-topbar-header-voice-search-button
+m.youtube.com##ytm-reel-shelf-renderer.item:nth-of-type(1)
+m.youtube.com##ytm-reel-shelf-renderer.item
+m.youtube.com##ytm-compact-radio-renderer.item
+m.youtube.com##ytm-compact-playlist-renderer.item
+! YouTube Consent Experimental
+! Block Youtube Shorts on front page
+youtube.com##ytd-rich-section-renderer > .ytd-rich-section-renderer > .ytd-rich-section-renderer[is-shorts=""]
+youtube.com##yt-formatted-string:has-text(/#shorts/):upward(ytd-rich-item-renderer.ytd-rich-grid-row)
+! Block Youtube Shorts on the subscriptions page
+youtube.com##ytd-thumbnail-overlay-time-status-renderer[overlay-style=SHORTS]:upward(ytd-grid-video-renderer.ytd-grid-renderer)
+! Block Youtube Shorts on the search page
+youtube.com##ytd-thumbnail-overlay-time-status-renderer[overlay-style=SHORTS]:upward(ytd-video-renderer.ytd-item-section-renderer)
+! Remove Shorts on sidebar menu
+youtube.com##a.yt-simple-endpoint.ytd-guide-entry-renderer[title=Shorts]:upward(ytd-guide-entry-renderer.ytd-guide-section-renderer)
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
+! https://www.youtube.com
+! https://xjavsub.com
+! https://javsub.co
+! https://javladies.com
+! https://www.searchenginejournal.com
+! https://www.actvid.com
+! https://real-123movies.best
+! https://www.sxyprn.net
+! https://www.porntrex.com
+! https://www.erome.com
+! https://www.porngo.com
+! https://pornvid69.com
+! https://lookmovie.io
+! https://www.reddit.com
+! mailtrack.io
+! Purge all UTM tracker
+! https://hanime.tv
+hanime.tv###add_to_playlist_btn
+hanime.tv##.user-options
+! https://muchohentai.com
+! https://hentaihaven.xxx
+! https://hentaiworld.tv
+! https://hentaiyes.com
+! https://hentaihaven.co
+! https://anon-v.com
+! https://noodlemagazine.com
+! https://pornzog.com
+! https://milfnut.com
+! https://www.playvids.com
+! https://daftsex.com
+! https://www.trendyporn.com
+! https://superuser.com
+! https://1337x.to
+! https://www.pornwhite.com
+! https://bestzzporno.com
+! https://speedporn.net
+! https://www.youjizz.com
+! https://suj.nu
+! https://xfantazy.com
+! https://porndish.org
+! https://spankbang.com
+! https://fullporner.com
+! https://pornobomba.club
+! https://xporno.name
+! https://odqw5a5fl56hafktc6zhwsaeeu--xporno-name.translate.goog
+! https://playxporn.com
+! https://hitbdsm.com
+! https://streamtape.com
+! https://www.xnxx.com
+! https://pornve.com
+! kink.com
+! https://www.fuq.com
+! https://xhamster.com
+! https://gogoanime.ai
+! https://www5.gowatchseries.bz
+! https://www.linkedin.com
+! https://ca.indeed.com
+! https://glassdoor.com
+! https://czechvideo.org
+! https://start.me
+! https://www.producthunt.com
+! https://mail.protonmail.com
+! https://thispersondoesnotexist.com
+! https://castbox.fm
+! https://www.ikea.com
+! airbnb
+! www.eporner.com
+! 2021-08-10 https://webapps.stackexchange.com
+! 2021-09-06 https://stackoverflow.com
+! 2021-09-16 https://www.linkedin.com
+www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell.feed-identity-module__anchored-widget.link-without-visited-state.app-aware-link
+www.linkedin.com##.premium-upsell-link
+www.linkedin.com##.mb3.p1.artdeco-card.ad-banner-container
+www.visaplace.com###band-cookies
+www.visaplace.com###bottom-cta
+www.visaplace.com##.animated.dialog-lightbox-widget-content.dialog-widget-content
+www.visaplace.com##.socially
+www.visaplace.com##.cta
+www.linkedin.com##.overflow-hidden.pt2.ad-banner-container
+www.linkedin.com##.mb4.p1.artdeco-card.ad-banner-container
+www.credly.com###onetrust-consent-sdk
+www.thelocal.dk##.tp-active.tp-iframe-wrapper
+www.thelocal.dk##.tp-modal
+www.thelocal.dk##.tp-active.tp-backdrop
+www.linkedin.com##.ad-banner-container
+$removeparam=&sclient
+en.certificationanswers.com##.site-inner > .adsbygoogle
+en.certificationanswers.com###cookie-law-info-bar
+en.certificationanswers.com##.widget-visible
+ais.usvisa-info.com##.align-middle.flex-container.emergency-announcement
+glassdoor.*###HardsellOverlay
+glassdoor.*##body[style*="overflow"]:style(overflow-y: auto !important; height: auto !important; margin: unset !important;)
+www.deezer.com##.conversion-banner
+www.deezer.com##.naboo > .modal
+heavyfetish.com##.sponsor
+heavyfetish.com##.table
+||heavyfetish.com/static/images/main-banner.gif$image
+open.spotify.com##div.ReactModalPortal:nth-of-type(9)
+hdtoday.tv###hgiks-top
+hdtoday.tv##.mb-3.alert
+hdtoday.tv###modalshare > .modal-dialog-centered.modal-dialog
