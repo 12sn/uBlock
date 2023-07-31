@@ -1,4 +1,4 @@
-[uBlock Origin v1.45.2]
+[uBlock Origin v1.51.0]
 ! Title: 1️⃣2️⃣ns
 ! Version: 1.51.0
 ! Last modified:
@@ -19348,6 +19348,7 @@ youtube.com##ytd-compact-radio-renderer.use-ellipsis.ytd-item-section-renderer.s
 m.youtube.com##ytm-radio-renderer
 m.youtube.com##.icon-microphone_on.mobile-topbar-header-voice-search-button
 m.youtube.com##ytm-reel-shelf-renderer.item:nth-of-type(1)
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
 m.youtube.com##ytm-reel-shelf-renderer.item
 m.youtube.com##ytm-compact-radio-renderer.item
 m.youtube.com##ytm-compact-playlist-renderer.item
