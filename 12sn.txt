@@ -4481,9 +4481,22 @@ androidpolice.com###apfollowwidget-2, .ap-follow-widget
 androidrepublic.org##.p-staffBar
 androidsage.com,arsesaworldgist.com###eu-cookie-law
 androidsage.com##.a2a_vertical_style
-animixplay.to##.altsourcenotif > span
-animixplay.to###gsignsection
-animixplay.to###streambottomright
+animixplay.*###flexstreambottom
+animixplay.*###topmid
+animixplay.*##.altsourcenotif > span
+animixplay.*###gsignsection
+animixplay.*###streambottomright
+animixplay.*##.text-center.mb-4
+animixplay.*##.main > .adx
+animixplay.*##.sidebar > .adx
+aniwave.*##.text-center.mb-4
+aniwave.*##.main > .adx
+aniwave.*##.sidebar > .adx
+aniwave.*###flexstreambottom
+aniwave.*###topmid
+aniwave.*##.altsourcenotif > span
+aniwave.*###gsignsection
+aniwave.*###streambottomright
 anker.com##div > p:has-text(/We use cookies/):upward(2)
 anon-v.com##.btn-favourites
 anon-v.com##.drop.highlight
@@ -18798,6 +18811,16 @@ www.actvid.com###block-rating > .clearfix
 www.actvid.com###footer
 www.actvid.com###gift-top
 www.actvid.com###pc-fav
+actvid.*##.btn-login.btn-on-header.btn-sm.btn
+actvid.*##.float-left.btn-sm.btn-light.btn
+actvid.*##.float-right.btn-sm.btn-light.btn
+actvid.*##.mb-3.alert
+actvid.*##.modal-content
+actvid.*##.text-center.server-notice
+actvid.*###block-rating > .clearfix
+actvid.*###footer
+actvid.*###gift-top
+actvid.*###pc-fav
 www.adexchanger.com##.adex-ad-text
 www.airbnb.ca##._1dl71rl
 www.amazon.com##[class*="Header__placeholder"]
@@ -19352,88 +19375,15 @@ m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
 m.youtube.com##ytm-reel-shelf-renderer.item
 m.youtube.com##ytm-compact-radio-renderer.item
 m.youtube.com##ytm-compact-playlist-renderer.item
-! YouTube Consent Experimental
-! Block Youtube Shorts on front page
 youtube.com##ytd-rich-section-renderer > .ytd-rich-section-renderer > .ytd-rich-section-renderer[is-shorts=""]
 youtube.com##yt-formatted-string:has-text(/#shorts/):upward(ytd-rich-item-renderer.ytd-rich-grid-row)
-! Block Youtube Shorts on the subscriptions page
 youtube.com##ytd-thumbnail-overlay-time-status-renderer[overlay-style=SHORTS]:upward(ytd-grid-video-renderer.ytd-grid-renderer)
-! Block Youtube Shorts on the search page
 youtube.com##ytd-thumbnail-overlay-time-status-renderer[overlay-style=SHORTS]:upward(ytd-video-renderer.ytd-item-section-renderer)
-! Remove Shorts on sidebar menu
 youtube.com##a.yt-simple-endpoint.ytd-guide-entry-renderer[title=Shorts]:upward(ytd-guide-entry-renderer.ytd-guide-section-renderer)
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
-! https://www.youtube.com
-! https://xjavsub.com
-! https://javsub.co
-! https://javladies.com
-! https://www.searchenginejournal.com
-! https://www.actvid.com
-! https://real-123movies.best
-! https://www.sxyprn.net
-! https://www.porntrex.com
-! https://www.erome.com
-! https://www.porngo.com
-! https://pornvid69.com
-! https://lookmovie.io
-! https://www.reddit.com
-! mailtrack.io
-! Purge all UTM tracker
-! https://hanime.tv
 hanime.tv###add_to_playlist_btn
 hanime.tv##.user-options
-! https://muchohentai.com
-! https://hentaihaven.xxx
-! https://hentaiworld.tv
-! https://hentaiyes.com
-! https://hentaihaven.co
-! https://anon-v.com
-! https://noodlemagazine.com
-! https://pornzog.com
-! https://milfnut.com
-! https://www.playvids.com
-! https://daftsex.com
-! https://www.trendyporn.com
-! https://superuser.com
-! https://1337x.to
-! https://www.pornwhite.com
-! https://bestzzporno.com
-! https://speedporn.net
-! https://www.youjizz.com
-! https://suj.nu
-! https://xfantazy.com
-! https://porndish.org
-! https://spankbang.com
-! https://fullporner.com
-! https://pornobomba.club
-! https://xporno.name
-! https://odqw5a5fl56hafktc6zhwsaeeu--xporno-name.translate.goog
-! https://playxporn.com
-! https://hitbdsm.com
-! https://streamtape.com
-! https://www.xnxx.com
-! https://pornve.com
-! kink.com
-! https://www.fuq.com
-! https://xhamster.com
-! https://gogoanime.ai
-! https://www5.gowatchseries.bz
-! https://www.linkedin.com
-! https://ca.indeed.com
-! https://glassdoor.com
-! https://czechvideo.org
-! https://start.me
-! https://www.producthunt.com
-! https://mail.protonmail.com
-! https://thispersondoesnotexist.com
-! https://castbox.fm
-! https://www.ikea.com
-! airbnb
-! www.eporner.com
-! 2021-08-10 https://webapps.stackexchange.com
-! 2021-09-06 https://stackoverflow.com
-! 2021-09-16 https://www.linkedin.com
 www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell.feed-identity-module__anchored-widget.link-without-visited-state.app-aware-link
 www.linkedin.com##.premium-upsell-link
 www.linkedin.com##.mb3.p1.artdeco-card.ad-banner-container
