@@ -18821,6 +18821,86 @@ actvid.*###block-rating > .clearfix
 actvid.*###footer
 actvid.*###gift-top
 actvid.*###pc-fav
+www.pogolinks.*##.btn-login.btn-on-header.btn-sm.btn
+www.pogolinks.*##.float-left.btn-sm.btn-light.btn
+www.pogolinks.*##.float-right.btn-sm.btn-light.btn
+www.pogolinks.*##.mb-3.alert
+www.pogolinks.*##.modal-content
+www.pogolinks.*##.text-center.server-notice
+www.pogolinks.*###block-rating > .clearfix
+www.pogolinks.*###footer
+www.pogolinks.*###gift-top
+www.pogolinks.*###pc-fav
+pogolinks.*##.btn-login.btn-on-header.btn-sm.btn
+pogolinks.*##.float-left.btn-sm.btn-light.btn
+pogolinks.*##.float-right.btn-sm.btn-light.btn
+pogolinks.*##.mb-3.alert
+pogolinks.*##.modal-content
+pogolinks.*##.text-center.server-notice
+pogolinks.*###block-rating > .clearfix
+pogolinks.*###footer
+pogolinks.*###gift-top
+pogolinks.*###pc-fav
+pogolinks.*##.container
+pogolinks.*##div#imbut:nth-of-type(4)
+pogolinks.*###imbut
+pogolinks.*##.show.fade.modal-backdrop
+pogolinks.*###modalshare > .modal-dialog-centered.modal-dialog > .modal-content
+www.quitt.*##.btn-login.btn-on-header.btn-sm.btn
+www.quitt.*##.float-left.btn-sm.btn-light.btn
+www.quitt.*##.float-right.btn-sm.btn-light.btn
+www.quitt.*##.mb-3.alert
+www.quitt.*##.modal-content
+www.quitt.*##.text-center.server-notice
+www.quitt.*###block-rating > .clearfix
+www.quitt.*###footer
+www.quitt.*###gift-top
+www.quitt.*###pc-fav
+quitt.*##.btn-login.btn-on-header.btn-sm.btn
+quitt.*##.float-left.btn-sm.btn-light.btn
+quitt.*##.float-right.btn-sm.btn-light.btn
+quitt.*##.mb-3.alert
+quitt.*##.modal-content
+quitt.*##.text-center.server-notice
+quitt.*###block-rating > .clearfix
+quitt.*###footer
+quitt.*###gift-top
+quitt.*###pc-fav
+quitt.*##div#imbut:nth-of-type(4)
+quitt.*###imbut
+quitt.*##.show.fade.modal-backdrop
+quitt.*###modalshare > .modal-dialog-centered.modal-dialog > .modal-content
+www.zoechip.*##.btn-login.btn-on-header.btn-sm.btn
+www.zoechip.*##.float-left.btn-sm.btn-light.btn
+www.zoechip.*##.float-right.btn-sm.btn-light.btn
+www.zoechip.*##.mb-3.alert
+www.zoechip.*##.modal-content
+www.zoechip.*##.text-center.server-notice
+www.zoechip.*###block-rating > .clearfix
+www.zoechip.*###footer
+www.zoechip.*###gift-top
+www.zoechip.*###pc-fav
+zoechip.*##.btn-login.btn-on-header.btn-sm.btn
+zoechip.*##.float-left.btn-sm.btn-light.btn
+zoechip.*##.float-right.btn-sm.btn-light.btn
+zoechip.*##.mb-3.alert
+zoechip.*##.modal-content
+zoechip.*##.text-center.server-notice
+zoechip.*###block-rating > .clearfix
+zoechip.*###footer
+zoechip.*###gift-top
+zoechip.*###pc-fav
+zoechip.*##div#imbut:nth-of-type(4)
+zoechip.*###imbut
+zoechip.*##.show.fade.modal-backdrop
+zoechip.*###modalshare > .modal-dialog-centered.modal-dialog > .modal-content
+zoechip.*##.show.modalshare-1.premodal-share.premodal.modal
+zoechip.*##.show.modal-backdrop
+fmovies.*##.main > .text-center.mb-3
+fmovies.*##.mt-4
+fmovies.*##.mt-3
+hurawatch.*##.mt-4
+hurawatch.*##.mt-3
 www.adexchanger.com##.adex-ad-text
 www.airbnb.ca##._1dl71rl
 www.amazon.com##[class*="Header__placeholder"]
