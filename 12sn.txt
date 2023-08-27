@@ -19461,8 +19461,7 @@ youtube.com##yt-formatted-string:has-text(/#shorts/):upward(ytd-rich-item-render
 youtube.com##ytd-thumbnail-overlay-time-status-renderer[overlay-style=SHORTS]:upward(ytd-grid-video-renderer.ytd-grid-renderer)
 youtube.com##ytd-thumbnail-overlay-time-status-renderer[overlay-style=SHORTS]:upward(ytd-video-renderer.ytd-item-section-renderer)
 youtube.com##a.yt-simple-endpoint.ytd-guide-entry-renderer[title=Shorts]:upward(ytd-guide-entry-renderer.ytd-guide-section-renderer)
-www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
-www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
+
 
 
 ! All comments expanded
