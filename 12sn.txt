@@ -19092,9 +19092,9 @@ www.youtube.com###chat
 www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 www.youtube.com###content > .ytd-rich-section-renderer.style-scope:has-text(Learn about vaccine progress from Health Canada)
 www.youtube.com###donation-shelf
-www.youtube.com##ytd-clarification-renderer.ytd-item-section-renderer.style-scope
+!! www.youtube.com##ytd-clarification-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
-www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+!! www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 www2.hm.com##.ot-sdk-container
 www5.gowatchseries.bz##.click_comment
 www5.gowatchseries.bz##.comment
@@ -19447,8 +19447,8 @@ youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important
 youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
 m.youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
 m.youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
-m.youtube.com##ytd-compact-radio-renderer.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
-youtube.com##ytd-compact-radio-renderer.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
+!! m.youtube.com##ytd-compact-radio-renderer.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
+!! youtube.com##ytd-compact-radio-renderer.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
 m.youtube.com##ytm-radio-renderer
 m.youtube.com##.icon-microphone_on.mobile-topbar-header-voice-search-button
 m.youtube.com##ytm-reel-shelf-renderer.item:nth-of-type(1)
