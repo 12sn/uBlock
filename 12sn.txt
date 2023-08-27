@@ -19447,7 +19447,6 @@ youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important
 youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
 m.youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
 m.youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
-!! m.youtube.com##ytd-compact-radio-renderer.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
 !! youtube.com##ytd-compact-radio-renderer.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
 m.youtube.com##ytm-radio-renderer
 m.youtube.com##.icon-microphone_on.mobile-topbar-header-voice-search-button
