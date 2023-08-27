@@ -9711,6 +9711,8 @@ hanime.tv##+js(set, Cookies.get, trueFunc)
 hanime.tv##div.nav-drawer-list.list:nth-of-type(3)
 hanime.tv##div.nav-drawer-list.list:nth-of-type(4)
 hanime.tv##div.nav-drawer-list.list:nth-of-type(5)
+! hanime.tv###add_to_playlist_btn
+! hanime.tv##.user-options
 hannaandersson.com##.clearfix.js-header.site-header:style(position: relative !important;)
 hannity.com##.affix.full.navTopadContainer:style(position: relative !important; top: 0 !important;)
 happyhealthymama.com###convertkit_form-2, .sw-pinit-button, .swp_social_panel
@@ -19487,8 +19489,6 @@ youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageV
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
-hanime.tv###add_to_playlist_btn
-hanime.tv##.user-options
 www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell.feed-identity-module__anchored-widget.link-without-visited-state.app-aware-link
 www.linkedin.com##.premium-upsell-link
 www.linkedin.com##.mb3.p1.artdeco-card.ad-banner-container
