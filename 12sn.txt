@@ -19554,3 +19554,9 @@ reddit.com##xpromo-app-selector
 reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
 reddit.com##+js(aeld, touchmove)
 reddit.com##.XPromoPopupRplNew
+
+spotify.com##.sponsor-container
+spotify.com###Desktop_PanelContainer_Id
+spotify.com##.tippy-box
+spotify.com##.knqROz.Button-sc-qlcn5g-0
+spotify.com##.cabTyT.Button-sc-qlcn5g-0
