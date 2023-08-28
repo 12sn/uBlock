@@ -1,9 +1,9 @@
 [uBlock Origin v1.51.0]
-! Title: 1️⃣2️⃣ns
+! Title: 1️⃣2️⃣sn
 ! Version: 1.51.0
 ! Last modified:
 ! Expires: 1 hour
-! Homepage:
+! Homepage: https://raw.githubusercontent.com/12sn/uBlock/main/12sn.txt
 !
 !【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】!
 
@@ -17,7 +17,7 @@
 @@/aff_c?$removeparam=/^aff_id[0-9]?=/i
 @@/b/ref=$removeparam=ie
 @@/cookieconsent$domain=shopee.pl
-@@^mod=djemalertNEWS^$removeparam=mod
+@@^mod=djemalertNEWS^$=mod
 @@||100percentfedup.com^$generichide
 @@||amazon.*/gp/slredirect/picassoRedirect.html^$removeparam
 @@||animezone.pl^$generichide
@@ -19529,6 +19529,12 @@ youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageV
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+
+! Remove YouTube Homepage Premium Upsell Banner
+youtube.com###foreground-content
+
+! Remove YouTube Logo Tracking Parma
+$removeparam=bp
 
 
 ! Remove Reddit NSFW blur filter without loggin in
