@@ -19536,7 +19536,6 @@ youtube.com###foreground-content
 ! Remove YouTube Logo Tracking Parma
 $removeparam=bp
 
-
 ! Remove Reddit NSFW blur filter without loggin in
 ||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-desktop-*.js
 ||www.redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
@@ -19563,3 +19562,19 @@ spotify.com###Desktop_PanelContainer_Id
 spotify.com##.tippy-box
 spotify.com##.knqROz.Button-sc-qlcn5g-0
 spotify.com##.cabTyT.Button-sc-qlcn5g-0
+
+! Remove heanti.tv ads
+hentai.tv##.justify-between.items-center.pr-3.px-3.pb-3.py-3.flex.-lg\:-mx-2.order-first.fr-mb
+hentai.tv##div.my-4.max-w-screen
+hentai.tv##.-on.daftplugPublicPushButton
+! Remove "Close Ad" page on hentai.tv
+hentai.tv##+js(set-cookie, inter, 1, , reload, 1)
+hentai.tv##^responseheader(location)
+hentai.tv##.fr-mb
+hentai.tv##.max-w-screen
+
+! Block GTM
+||trffk-assets.autotrader.ca
+||googletagmanager.com
+googletagmanager.com^$script
+||trffk-assets.autotrader.ca^$script
