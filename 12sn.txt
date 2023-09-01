@@ -19578,3 +19578,12 @@ hentai.tv##.max-w-screen
 ||googletagmanager.com
 googletagmanager.com^$script
 ||trffk-assets.autotrader.ca^$script
+
+! myanimelist cosmatic filter
+myanimelist.*##.header-mini-banner.banner-header-anime-straming
+myanimelist.*##.ga-impression.ga-click.btn-mal-service
+myanimelist.*##li.smaller:nth-of-type(6)
+myanimelist.*##.small2
+myanimelist.*##li.small:nth-of-type(2)
+myanimelist.*##.color-pc-constant.js-color-pc-constant.arrow_box.header-list-dropdown.header-menu-dropdown > ul > li:has-text(/Manga List/)
+
