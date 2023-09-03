@@ -8,9 +8,9 @@
 !【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】【=】!
 
 ! ------ 𝗘𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝗮𝗹 𝗙𝗶𝗹𝘁𝗲𝗿𝘀 𝗧𝗲𝘀𝘁 ------ !
-://www.google.*/search^$removeparam=entrypoint
-://www.google.*/search^$removeparam=kgs
-://www.google.*/search^$removeparam=shndl
+://google.*/search^$removeparam=entrypoint
+://google.*/search^$removeparam=kgs
+://google.*/search^$removeparam=shndl
 ?*__$~xmlhttprequest,removeparam=/^__[bce-z]/,domain=facebook.com|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
 .userapi.com/impg^$removeparam=proxy
 .userapi.com/impg^$removeparam=type
@@ -2524,7 +2524,7 @@
 ||community.spiceworks.com^$removeparam=carPos
 ||comodo.com^$removeparam=af
 ||comodo.com^$removeparam=track
-||consent-pref.trustarc.com/?type=philips_lighting_new&site=philips-lighting.com&action=notice&country=us&locale=en_US&behavior=expressed&gtm=1&layout=default_eu&privacypolicylink=%2F%2Fwww.usa.lighting.philips.com%2Fcookie-notice&cookieLink=%2F%2Fwww.usa.lighting.philips.com%2Fcookie-notice&irm=undefined&from=https://consent.trustarc.com/$subdocument
+||consent-pref.trustarc.com/?type=philips_lighting_new&site=philips-lighting.com&action=notice&country=us&locale=en_US&behavior=expressed&gtm=1&layout=default_eu&privacypolicylink=%2F%2Fusa.lighting.philips.com%2Fcookie-notice&cookieLink=%2F%2Fusa.lighting.philips.com%2Fcookie-notice&irm=undefined&from=https://consent.trustarc.com/$subdocument
 ||consent-pref.trustarc.com/$subdocument
 ||coupang.com^$removeparam=traceid
 ||coupang.com^$removeparam=wPcid
@@ -2990,15 +2990,15 @@
 ||wsjstream.wsj.net^$xmlhttprequest,domain=wsj.com
 ||wsjstream.wsj.net$websocket,domain=wsj.com
 ||wthr.com/article/*$xmlhttprequest,first-party
-||www.google.$removeparam=aqs
-||www.google.$removeparam=btnG
-||www.google.$removeparam=iflsig
-||www.google.$removeparam=uact
-||www.xxxc2c.org/in/?track=default&tour=x1Rd&campaign=T0owj&c=4&p=0&gender=x&tag=teen&disable_sound=True$subdocument
-||www.xxxc2c.org/in/?track=default&tour=x1Rd&disable_sound=True&campaign=T0owj&c=4&p=0&gender=x&tag=brunette$subdocument
-||www.xxxc2c.org/in/?track=default&tour=x1Rd&disable_sound=True&campaign=T0owj&c=4&p=0&gender=x&tag=couple$subdocument
-||www.xxxc2c.org/in/?track=embed&tour=sEAI&campaign=T0owj&disable_sound=1&mobileRedirect=auto&embed_video_only=1$subdocument
-||www.youtube.com/live_chat_replay?continuation=op2w0wRiGlhDaWtxSndvWVZVTlpWbFUyY2sxdlpHeEhlSFpLWW5ONlEyTnNSMGQzRWdzNFVuaHdUVTh6TVMxVE5Cb1Q2cWpkdVFFTkNnczRVbmh3VFU4ek1TMVROQ0FCQAFyAggEeAE%253D$subdocument
+||google.$removeparam=aqs
+||google.$removeparam=btnG
+||google.$removeparam=iflsig
+||google.$removeparam=uact
+||xxxc2c.org/in/?track=default&tour=x1Rd&campaign=T0owj&c=4&p=0&gender=x&tag=teen&disable_sound=True$subdocument
+||xxxc2c.org/in/?track=default&tour=x1Rd&disable_sound=True&campaign=T0owj&c=4&p=0&gender=x&tag=brunette$subdocument
+||xxxc2c.org/in/?track=default&tour=x1Rd&disable_sound=True&campaign=T0owj&c=4&p=0&gender=x&tag=couple$subdocument
+||xxxc2c.org/in/?track=embed&tour=sEAI&campaign=T0owj&disable_sound=1&mobileRedirect=auto&embed_video_only=1$subdocument
+||youtube.com/live_chat_replay?continuation=op2w0wRiGlhDaWtxSndvWVZVTlpWbFUyY2sxdlpHeEhlSFpLWW5ONlEyTnNSMGQzRWdzNFVuaHdUVTh6TVMxVE5Cb1Q2cWpkdVFFTkNnczRVbmh3VFU4ek1TMVROQ0FCQAFyAggEeAE%253D$subdocument
 ||xbox.com^$removeparam=xr
 ||xg4ken.com^$removeparam=criteriaid
 ||xg4ken.com^$removeparam=kchid
@@ -6186,7 +6186,7 @@ cellularinsights.com##.canvas:style(padding-top: 0 !important;)
 centennialsoftwaresolutions.com###comp-jj0rdgjm
 centerfornewsanddesign.com##.w-toplink
 centralrestaurant.com###phplive_automatic_chat_invite_wrapper
-centrumxp.pl##.badge-partner, a[href*="https://www.microsoft.com/pl-PL/solution-providers/partnerdetails/"], a[href*="onexgroup"], a[href*="onexstore"], a[href="http://www.microsoft-azure.pl/"], a[href="http://www.qa.centrumxp.pl/"], a[href="https://www.youtube.com/user/CentrumXPpl"], div.wrap:nth-of-type(2)
+centrumxp.pl##.badge-partner, a[href*="https://microsoft.com/pl-PL/solution-providers/partnerdetails/"], a[href*="onexgroup"], a[href*="onexstore"], a[href="http://microsoft-azure.pl/"], a[href="http://qa.centrumxp.pl/"], a[href="https://youtube.com/user/CentrumXPpl"], div.wrap:nth-of-type(2)
 centrumxp.pl##.main-banner--images.main-banner:style(visibility: hidden !important; height: 0 !important; width: 0 !important; margin: 85px !important;)
 centurylink.net##.header__height.header__search:style(position: relative !important; top: 0 !important;)
 cepro.com##.cd-main-header, .sticky:style(position: relative !important; top: 0 !important;)
@@ -7820,7 +7820,7 @@ dutchreview.com##.app_2k2uB
 dw.com,japanrailandtravel.com##.head:style(position: absolute !important;)
 dw.com##.cookie--visible.cookie
 dw.com###mobileSharingGroup, #sharing-bar
-dw.com##div a[href^="https://twitter.com/"], div a[href^="https://www.facebook.com/"]:upward(2)
+dw.com##div a[href^="https://twitter.com/"], div a[href^="https://facebook.com/"]:upward(2)
 dwatchseries.to,informer.com,swatchseries.to,watch-series.la,wireshark.org##.notify
 dwatchseries.to,swatchseries.to,tvbuzer.com,watch-series.la###top-band:style(position: absolute !important;)
 dxc.technology##.cscMainHeader:style(position: relative !important; top: 0 !important;)
@@ -8093,7 +8093,7 @@ epicgames.com##.fixed.top.blog-social
 epicgames.com##[class^="Group-header"]:style(position: absolute !important; top: 0 !important; bottom: unset !important;)
 epicgames.com##[data-component="PrimaryNavigation"]:style(position: static !important;)
 epicureaneva.com##.et_header_style_centered #main-header .logo_container:style(height: 153px !important;)
-epicureaneva.com##[href="//www.pinterest.com/pin/create/button/"]
+epicureaneva.com##[href="//pinterest.com/pin/create/button/"]
 epicureaneva.com###main-header:style(position: absolute !important; box-shadow: 0 1px 0 rgba(0,0,0,.1) !important;)
 epicureaneva.com###top-header
 epicurious.com##.expanded.riser
@@ -8542,21 +8542,21 @@ filmlifestyle.com##.optin-monster-saas-overlay, .sh-back-to-top
 filmlifestyle.com##.sh-sticky-header-active.sh-sticky-header.sh-header-2.sh-header:style(position: relative !important; left: unset !important; right: unset !important;)
 filmschoolrejects.com##.navbar-sticky:style(position: relative !important; top: 0 !important;)
 filmschoolrejects.com##cloudflare-app
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com##.bottom-docked-container:style(height: 60px !important;)
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com##.vp-content:style(position: relative !important; width: 100% !important; height: 100% !important; bottom: unset !important; left: unset !important; animation: none !important;)
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com##.wafer-tooltip
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com##.ybar-page-is-scrolled .ybar-sticky #ybar-inner-wrap:style(box-shadow: none !important;)
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com###close-modal-btn:style(position: absolute !important; top: 20px !important;)
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com###render-target-modal:style(top: 130px !important;)
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com###ybar-navigation:style(opacity: 1 !important; margin-top: 0 !important;)
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com###YDC-MainCanvasLeadAd-Composite, .vp-docked-bg
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com##div[class="bottom-docked-container "][style="height: 96px;"]:style(height: 96px !important;)
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com##div[id="render-target-default"]:style(top: 0 !important;)
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com##div[style*="backface-visibility: hidden; position:"] div[class*="Op(0)"]:style(opacity: 1 !important;)
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com##div[style*="backface-visibility: hidden; position:"] div[class="Trsdu(.2s) Trsp(scale) Scale(0)"]:style(transform: scale(1) !important;)
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com##div[style*="backface-visibility: hidden; position:"]:style(position: relative !important; top: 0 !important; bottom: unset !important;)
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com##html:not(.modal-postopen) .hasScrolled .hasScrolled_Bxsh\(headerShadow\):style(box-shadow: none !important;)
-finance.yahoo.com,news.yahoo.com,sports.yahoo.com,www.yahoo.com##html:not(.modal-postopen) #Navigation:style(transform: translate3d(0,0,0) !important; transition: 0 !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com##.bottom-docked-container:style(height: 60px !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com##.vp-content:style(position: relative !important; width: 100% !important; height: 100% !important; bottom: unset !important; left: unset !important; animation: none !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com##.wafer-tooltip
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com##.ybar-page-is-scrolled .ybar-sticky #ybar-inner-wrap:style(box-shadow: none !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com###close-modal-btn:style(position: absolute !important; top: 20px !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com###render-target-modal:style(top: 130px !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com###ybar-navigation:style(opacity: 1 !important; margin-top: 0 !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com###YDC-MainCanvasLeadAd-Composite, .vp-docked-bg
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com##div[class="bottom-docked-container "][style="height: 96px;"]:style(height: 96px !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com##div[id="render-target-default"]:style(top: 0 !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com##div[style*="backface-visibility: hidden; position:"] div[class*="Op(0)"]:style(opacity: 1 !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com##div[style*="backface-visibility: hidden; position:"] div[class="Trsdu(.2s) Trsp(scale) Scale(0)"]:style(transform: scale(1) !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com##div[style*="backface-visibility: hidden; position:"]:style(position: relative !important; top: 0 !important; bottom: unset !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com##html:not(.modal-postopen) .hasScrolled .hasScrolled_Bxsh\(headerShadow\):style(box-shadow: none !important;)
+finance.yahoo.com,news.yahoo.com,sports.yahoo.com,yahoo.com##html:not(.modal-postopen) #Navigation:style(transform: translate3d(0,0,0) !important; transition: 0 !important;)
 finance.yahoo.com##.caas-da
 finance.yahoo.com##.modal-open #ybar ._yb_lfekl > ._yb_11lt7, .ybar-hide-navigation #ybar ._yb_lfekl > ._yb_11lt7:style(opacity: 1 !important; margin-top: unset !important;)
 finance.yahoo.com###header-wrapper:style(box-shadow: none !important; border-bottom-color: transparent !important;)
@@ -10192,7 +10192,7 @@ idtbox.com##.topbar-wrap:style(padding-top: 0 !important;)
 idtbox.com##.topbar:style(position: relative !important;)
 idtheftcenter.org,mashed.com###header:style(position: absolute !important; margin-top: 0 !important;)
 idtheftcenter.org##.av-logo-container.container, nav > div > ul > li > a:style(height: 118px !important; line-height: 118px !important;)
-idtheftcenter.org##.logo > [href="https://www.idtheftcenter.org/"], .logo > a > img:style(max-height: 118px !important;)
+idtheftcenter.org##.logo > [href="https://idtheftcenter.org/"], .logo > a > img:style(max-height: 118px !important;)
 ieee.org##.ad-item-related.sml_article.item, .ad-module, .ad-space, .automaton.sml_article, .medium-top-ad
 ieee.org###mainNav:style(position: relative !important; top: 0 !important;)
 ieee.org##body.pinned #main:style(padding-top: 0 !important;)
@@ -13269,7 +13269,7 @@ nytimes.com##body:style(overflow-x: unset !important;)
 nytimes.com##body:style(overflow: unset !important;)
 nytimes.com##body.ReactModal__Body--open:style(position: unset !important; overflow: auto !important;)
 nytimes.com##button[name="select interest"]:upward(3)
-nytimes.com##div > p:has([href^="https://www.nytimes.com/newsletters/"])
+nytimes.com##div > p:has([href^="https://nytimes.com/newsletters/"])
 nytimes.com##div[data-testid="photoviewer-overlay"] >div:not([data-testid="photoviewer-captionblock"]):not([data-testid="photoviewer-wrapper-hidden"]), div[data-testid="photoviewer-wrapper"] >div:not([data-testid="photoviewer-captionblock"]):not([data-testid="photoviewer-wrapper-hidden"]):style(height: calc(100% - 25px) !important;)
 nytimes.com##html:not(.nytapp-vi-interactive):style(overflow-x: hidden !important; overflow-y: auto !important; padding-right: 0 !important;)
 nytimes.com##section[data-block-tracking-id="Editors Picks"]:style(margin-bottom: 40px !important;)
@@ -16410,7 +16410,7 @@ theartofdoingstuff.com###access.sticky-element-cloned.element-is-sticky
 theartofdoingstuff.com###access.sticky-element-original.element-is-not-sticky:style(visibility: visible !important;)
 theartofdoingstuff.com###text-75
 theathletic.com##[class*="header-styles__HeaderDisplay-sc"] > div:style(position: static !important;)
-theathletic.com##[href^="https://www.facebook.com/dialog/feed"]
+theathletic.com##[href^="https://facebook.com/dialog/feed"]
 theathletic.com###free-trial-button-sticky-wrapper
 theatlantic.com##.article-embed-share, .article-tools, .btn--social, .c-share-social__list, .toggleable.follow, [class*="ArticleShare_root"]
 theatlantic.com##.c-nav__container::before, [class*="HomepageNav_root"]::after:style(position: absolute !important;)
@@ -17789,7 +17789,7 @@ usatoday.com##.logoDiv.link-disclosure.attribution-disclosure-link-hybrid
 usatoday.com##.longform-chapter-nav.style-scope.sticky.chapter-container:style(position: absolute !important;)
 usatoday.com##.s2nPlayerFrame:style(position: absolute !important; visibility: visible !important; transform: none !important;)
 usatoday.com##.uloop-content
-usatoday.com##[href^="https://www.facebook.com/dialog/share?"]
+usatoday.com##[href^="https://facebook.com/dialog/share?"]
 usatoday.com##[id*="ad-slot-"]:upward(1)
 usatoday.com###global-nav-wrapper, .fixed.util-sticky-module.style-scope:style(position: absolute !important; top: 0 !important;)
 usatoday.com###nav-branding, #nav-global, #navContainer:style(position: relative !important; top: 0 !important;)
@@ -18803,16 +18803,16 @@ wwe.com##.wwe-header--explorer.wwe-highlights-videos--wrapper:style(position: re
 wwe.com###mini-panel-header_navigation:style(position: relative !important; top: 0 !important;)
 wweek.com##.slimline.fixed.border-top-desktop.border-top-mobile.line-up.sharebar-top-mobile.sharebar-wrapper.sharebar-top-desktop:style(position: relative !important; top: 0 !important;)
 wweek.com###footer_Home
-www.actvid.com##.btn-login.btn-on-header.btn-sm.btn
-www.actvid.com##.float-left.btn-sm.btn-light.btn
-www.actvid.com##.float-right.btn-sm.btn-light.btn
-www.actvid.com##.mb-3.alert
-www.actvid.com##.modal-content
-www.actvid.com##.text-center.server-notice
-www.actvid.com###block-rating > .clearfix
-www.actvid.com###footer
-www.actvid.com###gift-top
-www.actvid.com###pc-fav
+actvid.com##.btn-login.btn-on-header.btn-sm.btn
+actvid.com##.float-left.btn-sm.btn-light.btn
+actvid.com##.float-right.btn-sm.btn-light.btn
+actvid.com##.mb-3.alert
+actvid.com##.modal-content
+actvid.com##.text-center.server-notice
+actvid.com###block-rating > .clearfix
+actvid.com###footer
+actvid.com###gift-top
+actvid.com###pc-fav
 actvid.*##.btn-login.btn-on-header.btn-sm.btn
 actvid.*##.float-left.btn-sm.btn-light.btn
 actvid.*##.float-right.btn-sm.btn-light.btn
@@ -18823,16 +18823,16 @@ actvid.*###block-rating > .clearfix
 actvid.*###footer
 actvid.*###gift-top
 actvid.*###pc-fav
-www.pogolinks.*##.btn-login.btn-on-header.btn-sm.btn
-www.pogolinks.*##.float-left.btn-sm.btn-light.btn
-www.pogolinks.*##.float-right.btn-sm.btn-light.btn
-www.pogolinks.*##.mb-3.alert
-www.pogolinks.*##.modal-content
-www.pogolinks.*##.text-center.server-notice
-www.pogolinks.*###block-rating > .clearfix
-www.pogolinks.*###footer
-www.pogolinks.*###gift-top
-www.pogolinks.*###pc-fav
+pogolinks.*##.btn-login.btn-on-header.btn-sm.btn
+pogolinks.*##.float-left.btn-sm.btn-light.btn
+pogolinks.*##.float-right.btn-sm.btn-light.btn
+pogolinks.*##.mb-3.alert
+pogolinks.*##.modal-content
+pogolinks.*##.text-center.server-notice
+pogolinks.*###block-rating > .clearfix
+pogolinks.*###footer
+pogolinks.*###gift-top
+pogolinks.*###pc-fav
 pogolinks.*##.btn-login.btn-on-header.btn-sm.btn
 pogolinks.*##.float-left.btn-sm.btn-light.btn
 pogolinks.*##.float-right.btn-sm.btn-light.btn
@@ -18848,16 +18848,16 @@ pogolinks.*##div#imbut:nth-of-type(4)
 pogolinks.*###imbut
 pogolinks.*##.show.fade.modal-backdrop
 pogolinks.*###modalshare > .modal-dialog-centered.modal-dialog > .modal-content
-www.quitt.*##.btn-login.btn-on-header.btn-sm.btn
-www.quitt.*##.float-left.btn-sm.btn-light.btn
-www.quitt.*##.float-right.btn-sm.btn-light.btn
-www.quitt.*##.mb-3.alert
-www.quitt.*##.modal-content
-www.quitt.*##.text-center.server-notice
-www.quitt.*###block-rating > .clearfix
-www.quitt.*###footer
-www.quitt.*###gift-top
-www.quitt.*###pc-fav
+quitt.*##.btn-login.btn-on-header.btn-sm.btn
+quitt.*##.float-left.btn-sm.btn-light.btn
+quitt.*##.float-right.btn-sm.btn-light.btn
+quitt.*##.mb-3.alert
+quitt.*##.modal-content
+quitt.*##.text-center.server-notice
+quitt.*###block-rating > .clearfix
+quitt.*###footer
+quitt.*###gift-top
+quitt.*###pc-fav
 quitt.*##.btn-login.btn-on-header.btn-sm.btn
 quitt.*##.float-left.btn-sm.btn-light.btn
 quitt.*##.float-right.btn-sm.btn-light.btn
@@ -18872,16 +18872,16 @@ quitt.*##div#imbut:nth-of-type(4)
 quitt.*###imbut
 quitt.*##.show.fade.modal-backdrop
 quitt.*###modalshare > .modal-dialog-centered.modal-dialog > .modal-content
-www.zoechip.*##.btn-login.btn-on-header.btn-sm.btn
-www.zoechip.*##.float-left.btn-sm.btn-light.btn
-www.zoechip.*##.float-right.btn-sm.btn-light.btn
-www.zoechip.*##.mb-3.alert
-www.zoechip.*##.modal-content
-www.zoechip.*##.text-center.server-notice
-www.zoechip.*###block-rating > .clearfix
-www.zoechip.*###footer
-www.zoechip.*###gift-top
-www.zoechip.*###pc-fav
+zoechip.*##.btn-login.btn-on-header.btn-sm.btn
+zoechip.*##.float-left.btn-sm.btn-light.btn
+zoechip.*##.float-right.btn-sm.btn-light.btn
+zoechip.*##.mb-3.alert
+zoechip.*##.modal-content
+zoechip.*##.text-center.server-notice
+zoechip.*###block-rating > .clearfix
+zoechip.*###footer
+zoechip.*###gift-top
+zoechip.*###pc-fav
 zoechip.*##.btn-login.btn-on-header.btn-sm.btn
 zoechip.*##.float-left.btn-sm.btn-light.btn
 zoechip.*##.float-right.btn-sm.btn-light.btn
@@ -18903,209 +18903,209 @@ fmovies.*##.mt-4
 fmovies.*##.mt-3
 hurawatch.*##.mt-4
 hurawatch.*##.mt-3
-www.adexchanger.com##.adex-ad-text
-www.airbnb.ca##._1dl71rl
-www.amazon.com##[class*="Header__placeholder"]
-www.amazon.com##[class*="Header__sticky"] [class*="Header__navArea"]:style(position: static !important; box-shadow: none !important;)
-www.cnbc.com##.PlaceHolder-wrapper
-www.eporner.com##.vjs-docker
-www.eporner.com###admobilefoot
-www.eporner.com###EPimLayerOuter
-www.eporner.com###pbwuvp
-www.erome.com##.album-share.btn-grey.btn
-www.erome.com##.collapsed.navbar-toggle
-www.erome.com##.dropdown-toggle.album-options.btn-grey.btn
-www.erome.com##.fa-lg.fa-fw.fa-bookmark.far
-www.erome.com##.footer
-www.erome.com##.free-space
-www.erome.com##.hidden-lg.hidden-md.hidden-sm.sp-mob
-www.erome.com##.sign-in.dropdown.hidden-tn.hidden-xxs.hidden-xs.hidden-sm > .dropdown-toggle
-www.erome.com###album-4qd3N06b
-www.erome.com###album-UvQvI3UD
-www.erome.com###album-xi4W8qB9
-www.erome.com###album-xkhnB6Vb
-www.erome.com###album-xkhnB6Vb > .hidden-tn.hidden-xxs.hidden-xs.hidden-sm
-www.erome.com##div.hidden-tn.hidden-xxs.hidden-xs.sp:nth-of-type(2)
-www.erome.com##div.hidden-tn.hidden-xxs.hidden-xs.sp:nth-of-type(3)
-www.erome.com##div.hidden-tn.hidden-xxs.hidden-xs.sp:nth-of-type(4)
-www.erome.com##div.sp:nth-of-type(1)
-www.forbes.com##.article-native-ad
-www.forbes.com##.login__menu
-www.forbes.com##.sticky.amp-bc-wrapper
-www.forbes.com##.tp-container-inner
-www.forbes.com###article-0-ad-21
-www.forbes.com###article-0-ad-22
-www.fuq.com###footer
-www.fuq.com##div.form-check-inline.form-check.btn:nth-of-type(2)
-www.fuq.com##div.form-check-inline.form-check.btn:nth-of-type(3)
-www.google.com##.glue-header__bar--desktop, .glue-header__drawer, header[id="gb"][role="banner"]:style(position: absolute !important; box-shadow: none !important;)
-www.google.com##.header.header--primary.header:style(position: static !important;)
-www.google.com##.l39u4d[style*="width:"]:style(top: 0 !important; height: 100vh !important;)
-www.google.com##.Lj9fsd.DU1Mzb .AWbbyf, .Lj9fsd.DU1Mzb .Aj0WOd, .Lj9fsd.DU1Mzb .lhkctf, .Lj9fsd.DU1Mzb .CzSCNb, .Lj9fsd.DU1Mzb .OWOjU, .Lj9fsd.DU1Mzb .AQxKeb:style(height: 24px !important; width: 24px !important;)
-www.google.com##.Lj9fsd.DU1Mzb .F1hUFe:style(padding: 4px 28px 0 30px !important;)
-www.google.com##.Lj9fsd.DU1Mzb .F7UV7d:style(height: 24px !important; width: 24px !important; background-size: 24px !important;)
-www.google.com##.Lj9fsd.DU1Mzb .JSAgYe, input[title="Search"]:style(line-height: 34px !important;)
-www.google.com##.Lj9fsd.DU1Mzb .Si7Nvc:style(top: 0 !important;)
-www.google.com##.Lj9fsd.DU1Mzb .wQnou:style(height: 46px !important;)
-www.google.com##.Lj9fsd.DU1Mzb .zthhpf, .o6juZc:style(height: 44px !important; align-items: normal !important;)
-www.google.com##.WaWKOe[style*="opacity:"]:style(height: 100% !important;)
-www.google.com###js-cookie-banner
-www.google.com###js-header-right:style(transform: translateX(210px) !important;)
-www.google.com###search div[data-async-context="query:finance"] .FNvPOb, .QOsNac:style(width: 98.96667vw !important;)
-www.google.com###Yf1RJc.nDuq.OeVqAd, .glue-app-ready .h-c-header__bar, .glue-app-supported .h-c-header__bar:style(position: absolute !important;)
-www.google.com##header.Lj9fsd:style(position: absolute !important; top: 10px !important; box-shadow: none !important;)
-www.hostinger.com##.menu:style(position: absolute !important;)
-www.hostinger.com##.navigation-color:style(color: #ffffff !important;)
-www.hostinger.com##.navigation-holder:style(position: absolute !important; background-color: transparent !important; padding-top: 20px !important; box-shadow: none !important;)
-www.hostinger.com##path[fill-rule="evenodd"]:style(fill: #ffffff !important;)
-www.ikea.com##.vertical-align-content.ot-bottom-left.otFloatingRoundedCorner
-www.intuit.com##.b01-navigation:style(position: relative !important;)
-www.kink.com##.-container.container > .clear
-www.kink.com##.lg-header.info-header
-www.linkedin.com##.align-items-center.display-flex.jobs-details-top-card--left-offset
-www.linkedin.com##.artdeco-toasts_toasts
-www.linkedin.com##.capsule-without-wrapper.with-rating.capsule-upsell
-www.linkedin.com##.ember-view.artdeco-card.ad-banner-container
-www.linkedin.com##.ember-view.feed-shared-feed-discovery-grid.feed-shared-update-v2__content
-www.linkedin.com##.feed-right-rail__sticky-container.right-rail-container > .ad-banner-container > .ad-banner
-www.linkedin.com##.feed-shared-update-v2:has( > div > div.feed-shared-actor > a.feed-shared-actor__container-link > div.feed-shared-actor__meta > span.feed-shared-actor__sub-description:has-text(Promoted))
-www.linkedin.com##.full-width.feed-card:has-text(Promoted)
-www.linkedin.com##.jobs-list-feedback
-www.linkedin.com##.jobs-search-top-applicant-upsell-card
-www.linkedin.com##.left-rail-container.mn-left-rail__container.artdeco-card > .ember-view.ad-banner-container
-www.linkedin.com##.overflow-hidden.artdeco-card.ad-banner-container
-www.linkedin.com##.premium-upsell-link--extra-long.global-nav__spotlight-upsell.global-nav__primary-link--premium.global-nav__primary-link.link-without-visited-state.app-aware-link
-www.linkedin.com##.right-rail > .ember-view.ad-banner-container
-www.linkedin.com##.scaffold-layout__ad
-www.linkedin.com###account-center-notification
-www.linkedin.com###ember1016 > .premium-upsell-link
-www.linkedin.com###ember198 > .premium-upsell-link
-www.linkedin.com###ember247 > .artdeco-card__actions
-www.linkedin.com###ember327
-www.linkedin.com###ember404 > .premium-upsell-link
-www.linkedin.com###ember95
-www.massageplanet.net##div.samDisplayInline.samAlignCenter.samBannerUnit
-www.playvids.com##.card-promotion.card-deck
-www.playvids.com##.col-lg-6.col-xl-4
-www.porngo.com##.footer > .container
-www.porngo.com##.menu-list__title_upload.menu-list__title
-www.porngo.com##.spot_link.nav-menu__link
-www.porntrex.com##.copyright-txt-block
-www.porntrex.com##.m-r-15.m-l-15.navbar-btn.btn-primary.btn
-www.porntrex.com##.mobile.user-menu
-www.porntrex.com##.navbar-header > .user-menu
-www.porntrex.com##.navbar-right.navbar-nav.nav .orientation-section > .dropdown > .dropdown-menu .but-gay.item
-www.porntrex.com##.top-nav
-www.porntrex.com##.video-info > .tab-content
-www.porntrex.com##[href="https://vo2.qrlsx.com/8d9c8d92-c5ad-4cb7-bb91-07e2503b7e1a"]
-www.porntrex.com##[href="https://vo2.qrlsx.com/c7e4f393-27ae-41a1-b39e-b12ebd70798e"]
-www.porntrex.com##li.hidden-sm > .hidden-sm
-www.pornwhite.com##.adv-aside
-www.pornwhite.com##.bottom-banners
-www.pornwhite.com##.container > .heading
-www.pornwhite.com##.long.video-options
-www.pornwhite.com##.spot
-www.pornwhite.com##.spot > [href="https://www.pornwhite.com/signup.php"]
-www.pornwhite.com###ac_block
-www.pornwhite.com##li:nth-of-type(6)
-www.pornwhite.com##li:nth-of-type(7)
-www.pornwhite.com##li:nth-of-type(8)
-www.pornwhite.com##li.drop:nth-of-type(4)
-www.producthunt.com##.styles_content__1To6E.styles_white__13AB5.styles_content__2SyXA
-www.reddit.com##.premium-banner-outer
-www.reddit.com###t3_kxlyfr
-www.reddit.com###t3_l4jt55
-www.reddit.com###t3_l4jt55 > .Post__link
-www.reddit.com##div button:has-text(/Back to top/)
-www.searchenginejournal.com##.sej-hello-bar
-www.sp411.cc##.custom_header_text_1
-www.sp411.cc##.notices
-www.sp411.cc##.padding20.block
-www.sp411.cc##.partybanner
-www.sp411.cc##.postfoot
-www.sp411.cc##.wrap
-www.sp411.cc###ad_thread_first_post_content
-www.sp411.cc##div.after_content
-www.sp411.cc##small
-www.sp411.cc##span:nth-of-type(1)
-www.sxyprn.net##.account_bar
-www.sxyprn.net##.account_bar > .transition.acc_char
-www.sxyprn.net##.comment_ta_wrap
-www.sxyprn.net##.comment_user_photo_main > span
-www.sxyprn.net##.comments_div
-www.sxyprn.net##.cont_abuse
-www.sxyprn.net##.cont_support
-www.sxyprn.net##.post_control > .transition.pes_wl
-www.sxyprn.net##.sharing_toolbox
-www.sxyprn.net##.small_post_control.vid_playlist_blog.vid_playlist_post
-www.sxyprn.net##.tbd
-www.sxyprn.net##.transition.notify_default.notify
-www.sxyprn.net##.transition.tm_watchlater
-www.sxyprn.net##[href="/live"]
-www.sxyprn.net##[href="http://pics.vc/popular"]
-www.trendyporn.com##.container > .pull-left
-www.trendyporn.com##.footer
-www.usa.canon.com##.breadcrumbs, .nav-ribbon:style(display: block !important; height: auto !important; padding: 0.9375rem 0 !important; )
-www.usa.canon.com###siteControl:style(border-bottom: 0px none !important;)
-www.usa.lighting.philips.com##.truste_overlay
-www.vice.com##.site-header .site-header__channel-slider-trigger__button path, .site-header .site-header__channel-slider-trigger__text path, .site-header .site-header__nav-trigger path, .site-header .site-header__social-icon path, .site-header .site-header__link path, .site-header__logo path:style(fill: #000000 !important;)
-www.vice.com##.site-header__logo:style(width: 127px !important;)
-www.xnxx.com##.active.metadata-btn
-www.xnxx.com##.gold-plate
-www.xnxx.com##.help-wizard-focus
-www.xnxx.com##.live-cams
-www.xnxx.com##.mobile-hide.btn.bookmark-link
-www.xnxx.com##.noselect.videoad-title-invideo.videoad-title
-www.xnxx.com##.slogan
-www.xnxx.com##.video-title
-www.xnxx.com###advanced
-www.xnxx.com###content-ad-top-zone-contener
-www.xnxx.com###footer
-www.xnxx.com###header-mobile-live-cam
-www.xnxx.com###loop
-www.xnxx.com###speed
-www.xnxx.com##a.metadata-btn:nth-of-type(3)
-www.xnxx.com##a.metadata-btn:nth-of-type(4)
-www.xnxx.com##li:nth-of-type(10) > [href="https://games.xnxx.com"]
-www.xnxx.com##li:nth-of-type(11) > [href="https://games.xnxx.com"]
-www.yahoo.com##.aside-sticky:style(position: static !important; top: 0 !important; bottom: unset !important;)
-www.yahoo.com##.caas-share-buttons:style(position: unset !important; top: unset !important;)
-www.yahoo.com##.Scrolling .Scrolling_Bxsh\(\$headerShadow\), .has-scrolled .has-scrolled_Bxsh\(\$headerShadow\):style(box-shadow: none !important;)
-www.yahoo.com##[class*="fixed-space"][class*="modal-open"]
-www.yahoo.com##[class="HideNavrail_Translate3d(0,-100%,0) Panel-open_Translate3d(0,-100%,0) Translate3d(0,0,0) Trsp(a) Trsdu(300ms)"]:style(transform: translate3d(0,0,0) !important;)
-www.yahoo.com##[data-wf-toggle-target=".userintent-tooltip"]
-www.yahoo.com##[id*="modal-sidekick-"] li span[class="sponsored"]:upward(4)
-www.yahoo.com###closebtn, #close-modal-btn:style(position: absolute !important; top: 30px !important;)
-www.yahoo.com###content-viewer:style(padding-top: 0 !important;)
-www.yahoo.com###header-nav-bar-wrapper:style(margin-top: 0 !important; margin-block-start: 0 !important; opacity: 1 !important;)
-www.yahoo.com###header-wrapper:style(position: relative !important;)
-www.yahoo.com###header-wrapper[class*="has-scrolled"]:style(border-bottom: none !important;)
-www.yahoo.com###viewer:style(padding-top: 3px !important;)
-www.youjizz.com##.col-padding-right.col-md-9
-www.youjizz.com##.download-wrapper.info-btn
-www.youjizz.com##.dropdown-toggle
-www.youjizz.com##.text-center.copyright
-www.youjizz.com###desktopNtvAPr
-www.youjizz.com###desktopNtvBPr
-www.yourupload.co##.jw-reset.jw-dock
-www.youtube.com###chat
-www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
-www.youtube.com###content > .ytd-rich-section-renderer.style-scope:has-text(Learn about vaccine progress from Health Canada)
-www.youtube.com###donation-shelf
-!! www.youtube.com##ytd-clarification-renderer.ytd-item-section-renderer.style-scope
-www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
-!! www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+adexchanger.com##.adex-ad-text
+airbnb.ca##._1dl71rl
+amazon.com##[class*="Header__placeholder"]
+amazon.com##[class*="Header__sticky"] [class*="Header__navArea"]:style(position: static !important; box-shadow: none !important;)
+cnbc.com##.PlaceHolder-wrapper
+eporner.com##.vjs-docker
+eporner.com###admobilefoot
+eporner.com###EPimLayerOuter
+eporner.com###pbwuvp
+erome.com##.album-share.btn-grey.btn
+erome.com##.collapsed.navbar-toggle
+erome.com##.dropdown-toggle.album-options.btn-grey.btn
+erome.com##.fa-lg.fa-fw.fa-bookmark.far
+erome.com##.footer
+erome.com##.free-space
+erome.com##.hidden-lg.hidden-md.hidden-sm.sp-mob
+erome.com##.sign-in.dropdown.hidden-tn.hidden-xxs.hidden-xs.hidden-sm > .dropdown-toggle
+erome.com###album-4qd3N06b
+erome.com###album-UvQvI3UD
+erome.com###album-xi4W8qB9
+erome.com###album-xkhnB6Vb
+erome.com###album-xkhnB6Vb > .hidden-tn.hidden-xxs.hidden-xs.hidden-sm
+erome.com##div.hidden-tn.hidden-xxs.hidden-xs.sp:nth-of-type(2)
+erome.com##div.hidden-tn.hidden-xxs.hidden-xs.sp:nth-of-type(3)
+erome.com##div.hidden-tn.hidden-xxs.hidden-xs.sp:nth-of-type(4)
+erome.com##div.sp:nth-of-type(1)
+forbes.com##.article-native-ad
+forbes.com##.login__menu
+forbes.com##.sticky.amp-bc-wrapper
+forbes.com##.tp-container-inner
+forbes.com###article-0-ad-21
+forbes.com###article-0-ad-22
+fuq.com###footer
+fuq.com##div.form-check-inline.form-check.btn:nth-of-type(2)
+fuq.com##div.form-check-inline.form-check.btn:nth-of-type(3)
+google.com##.glue-header__bar--desktop, .glue-header__drawer, header[id="gb"][role="banner"]:style(position: absolute !important; box-shadow: none !important;)
+google.com##.header.header--primary.header:style(position: static !important;)
+google.com##.l39u4d[style*="width:"]:style(top: 0 !important; height: 100vh !important;)
+google.com##.Lj9fsd.DU1Mzb .AWbbyf, .Lj9fsd.DU1Mzb .Aj0WOd, .Lj9fsd.DU1Mzb .lhkctf, .Lj9fsd.DU1Mzb .CzSCNb, .Lj9fsd.DU1Mzb .OWOjU, .Lj9fsd.DU1Mzb .AQxKeb:style(height: 24px !important; width: 24px !important;)
+google.com##.Lj9fsd.DU1Mzb .F1hUFe:style(padding: 4px 28px 0 30px !important;)
+google.com##.Lj9fsd.DU1Mzb .F7UV7d:style(height: 24px !important; width: 24px !important; background-size: 24px !important;)
+google.com##.Lj9fsd.DU1Mzb .JSAgYe, input[title="Search"]:style(line-height: 34px !important;)
+google.com##.Lj9fsd.DU1Mzb .Si7Nvc:style(top: 0 !important;)
+google.com##.Lj9fsd.DU1Mzb .wQnou:style(height: 46px !important;)
+google.com##.Lj9fsd.DU1Mzb .zthhpf, .o6juZc:style(height: 44px !important; align-items: normal !important;)
+google.com##.WaWKOe[style*="opacity:"]:style(height: 100% !important;)
+google.com###js-cookie-banner
+google.com###js-header-right:style(transform: translateX(210px) !important;)
+google.com###search div[data-async-context="query:finance"] .FNvPOb, .QOsNac:style(width: 98.96667vw !important;)
+google.com###Yf1RJc.nDuq.OeVqAd, .glue-app-ready .h-c-header__bar, .glue-app-supported .h-c-header__bar:style(position: absolute !important;)
+google.com##header.Lj9fsd:style(position: absolute !important; top: 10px !important; box-shadow: none !important;)
+hostinger.com##.menu:style(position: absolute !important;)
+hostinger.com##.navigation-color:style(color: #ffffff !important;)
+hostinger.com##.navigation-holder:style(position: absolute !important; background-color: transparent !important; padding-top: 20px !important; box-shadow: none !important;)
+hostinger.com##path[fill-rule="evenodd"]:style(fill: #ffffff !important;)
+ikea.com##.vertical-align-content.ot-bottom-left.otFloatingRoundedCorner
+intuit.com##.b01-navigation:style(position: relative !important;)
+kink.com##.-container.container > .clear
+kink.com##.lg-header.info-header
+linkedin.com##.align-items-center.display-flex.jobs-details-top-card--left-offset
+linkedin.com##.artdeco-toasts_toasts
+linkedin.com##.capsule-without-wrapper.with-rating.capsule-upsell
+linkedin.com##.ember-view.artdeco-card.ad-banner-container
+linkedin.com##.ember-view.feed-shared-feed-discovery-grid.feed-shared-update-v2__content
+linkedin.com##.feed-right-rail__sticky-container.right-rail-container > .ad-banner-container > .ad-banner
+linkedin.com##.feed-shared-update-v2:has( > div > div.feed-shared-actor > a.feed-shared-actor__container-link > div.feed-shared-actor__meta > span.feed-shared-actor__sub-description:has-text(Promoted))
+linkedin.com##.full-width.feed-card:has-text(Promoted)
+linkedin.com##.jobs-list-feedback
+linkedin.com##.jobs-search-top-applicant-upsell-card
+linkedin.com##.left-rail-container.mn-left-rail__container.artdeco-card > .ember-view.ad-banner-container
+linkedin.com##.overflow-hidden.artdeco-card.ad-banner-container
+linkedin.com##.premium-upsell-link--extra-long.global-nav__spotlight-upsell.global-nav__primary-link--premium.global-nav__primary-link.link-without-visited-state.app-aware-link
+linkedin.com##.right-rail > .ember-view.ad-banner-container
+linkedin.com##.scaffold-layout__ad
+linkedin.com###account-center-notification
+linkedin.com###ember1016 > .premium-upsell-link
+linkedin.com###ember198 > .premium-upsell-link
+linkedin.com###ember247 > .artdeco-card__actions
+linkedin.com###ember327
+linkedin.com###ember404 > .premium-upsell-link
+linkedin.com###ember95
+massageplanet.net##div.samDisplayInline.samAlignCenter.samBannerUnit
+playvids.com##.card-promotion.card-deck
+playvids.com##.col-lg-6.col-xl-4
+porngo.com##.footer > .container
+porngo.com##.menu-list__title_upload.menu-list__title
+porngo.com##.spot_link.nav-menu__link
+porntrex.com##.copyright-txt-block
+porntrex.com##.m-r-15.m-l-15.navbar-btn.btn-primary.btn
+porntrex.com##.mobile.user-menu
+porntrex.com##.navbar-header > .user-menu
+porntrex.com##.navbar-right.navbar-nav.nav .orientation-section > .dropdown > .dropdown-menu .but-gay.item
+porntrex.com##.top-nav
+porntrex.com##.video-info > .tab-content
+porntrex.com##[href="https://vo2.qrlsx.com/8d9c8d92-c5ad-4cb7-bb91-07e2503b7e1a"]
+porntrex.com##[href="https://vo2.qrlsx.com/c7e4f393-27ae-41a1-b39e-b12ebd70798e"]
+porntrex.com##li.hidden-sm > .hidden-sm
+pornwhite.com##.adv-aside
+pornwhite.com##.bottom-banners
+pornwhite.com##.container > .heading
+pornwhite.com##.long.video-options
+pornwhite.com##.spot
+pornwhite.com##.spot > [href="https://pornwhite.com/signup.php"]
+pornwhite.com###ac_block
+pornwhite.com##li:nth-of-type(6)
+pornwhite.com##li:nth-of-type(7)
+pornwhite.com##li:nth-of-type(8)
+pornwhite.com##li.drop:nth-of-type(4)
+producthunt.com##.styles_content__1To6E.styles_white__13AB5.styles_content__2SyXA
+reddit.com##.premium-banner-outer
+reddit.com###t3_kxlyfr
+reddit.com###t3_l4jt55
+reddit.com###t3_l4jt55 > .Post__link
+reddit.com##div button:has-text(/Back to top/)
+searchenginejournal.com##.sej-hello-bar
+sp411.cc##.custom_header_text_1
+sp411.cc##.notices
+sp411.cc##.padding20.block
+sp411.cc##.partybanner
+sp411.cc##.postfoot
+sp411.cc##.wrap
+sp411.cc###ad_thread_first_post_content
+sp411.cc##div.after_content
+sp411.cc##small
+sp411.cc##span:nth-of-type(1)
+sxyprn.net##.account_bar
+sxyprn.net##.account_bar > .transition.acc_char
+sxyprn.net##.comment_ta_wrap
+sxyprn.net##.comment_user_photo_main > span
+sxyprn.net##.comments_div
+sxyprn.net##.cont_abuse
+sxyprn.net##.cont_support
+sxyprn.net##.post_control > .transition.pes_wl
+sxyprn.net##.sharing_toolbox
+sxyprn.net##.small_post_control.vid_playlist_blog.vid_playlist_post
+sxyprn.net##.tbd
+sxyprn.net##.transition.notify_default.notify
+sxyprn.net##.transition.tm_watchlater
+sxyprn.net##[href="/live"]
+sxyprn.net##[href="http://pics.vc/popular"]
+trendyporn.com##.container > .pull-left
+trendyporn.com##.footer
+usa.canon.com##.breadcrumbs, .nav-ribbon:style(display: block !important; height: auto !important; padding: 0.9375rem 0 !important; )
+usa.canon.com###siteControl:style(border-bottom: 0px none !important;)
+usa.lighting.philips.com##.truste_overlay
+vice.com##.site-header .site-header__channel-slider-trigger__button path, .site-header .site-header__channel-slider-trigger__text path, .site-header .site-header__nav-trigger path, .site-header .site-header__social-icon path, .site-header .site-header__link path, .site-header__logo path:style(fill: #000000 !important;)
+vice.com##.site-header__logo:style(width: 127px !important;)
+xnxx.com##.active.metadata-btn
+xnxx.com##.gold-plate
+xnxx.com##.help-wizard-focus
+xnxx.com##.live-cams
+xnxx.com##.mobile-hide.btn.bookmark-link
+xnxx.com##.noselect.videoad-title-invideo.videoad-title
+xnxx.com##.slogan
+xnxx.com##.video-title
+xnxx.com###advanced
+xnxx.com###content-ad-top-zone-contener
+xnxx.com###footer
+xnxx.com###header-mobile-live-cam
+xnxx.com###loop
+xnxx.com###speed
+xnxx.com##a.metadata-btn:nth-of-type(3)
+xnxx.com##a.metadata-btn:nth-of-type(4)
+xnxx.com##li:nth-of-type(10) > [href="https://games.xnxx.com"]
+xnxx.com##li:nth-of-type(11) > [href="https://games.xnxx.com"]
+yahoo.com##.aside-sticky:style(position: static !important; top: 0 !important; bottom: unset !important;)
+yahoo.com##.caas-share-buttons:style(position: unset !important; top: unset !important;)
+yahoo.com##.Scrolling .Scrolling_Bxsh\(\$headerShadow\), .has-scrolled .has-scrolled_Bxsh\(\$headerShadow\):style(box-shadow: none !important;)
+yahoo.com##[class*="fixed-space"][class*="modal-open"]
+yahoo.com##[class="HideNavrail_Translate3d(0,-100%,0) Panel-open_Translate3d(0,-100%,0) Translate3d(0,0,0) Trsp(a) Trsdu(300ms)"]:style(transform: translate3d(0,0,0) !important;)
+yahoo.com##[data-wf-toggle-target=".userintent-tooltip"]
+yahoo.com##[id*="modal-sidekick-"] li span[class="sponsored"]:upward(4)
+yahoo.com###closebtn, #close-modal-btn:style(position: absolute !important; top: 30px !important;)
+yahoo.com###content-viewer:style(padding-top: 0 !important;)
+yahoo.com###header-nav-bar-wrapper:style(margin-top: 0 !important; margin-block-start: 0 !important; opacity: 1 !important;)
+yahoo.com###header-wrapper:style(position: relative !important;)
+yahoo.com###header-wrapper[class*="has-scrolled"]:style(border-bottom: none !important;)
+yahoo.com###viewer:style(padding-top: 3px !important;)
+youjizz.com##.col-padding-right.col-md-9
+youjizz.com##.download-wrapper.info-btn
+youjizz.com##.dropdown-toggle
+youjizz.com##.text-center.copyright
+youjizz.com###desktopNtvAPr
+youjizz.com###desktopNtvBPr
+yourupload.co##.jw-reset.jw-dock
+youtube.com###chat
+youtube.com###clarify-box > .ytd-watch-flexy.style-scope
+youtube.com###content > .ytd-rich-section-renderer.style-scope:has-text(Learn about vaccine progress from Health Canada)
+youtube.com###donation-shelf
+!! youtube.com##ytd-clarification-renderer.ytd-item-section-renderer.style-scope
+youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+!! youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 www2.hm.com##.ot-sdk-container
-www5.gowatchseries.bz##.click_comment
-www5.gowatchseries.bz##.comment
-www5.gowatchseries.bz##.disqus-comment-count.specialButton
-www5.gowatchseries.bz##.favorites
-www5.gowatchseries.bz##.footer
-www5.gowatchseries.bz##.notice
-www5.gowatchseries.bz##.repo.left
-www5.gowatchseries.bz##.socil_pluin > ul
-www5.gowatchseries.bz##.tweet
-www5.gowatchseries.bz###scroll-top-arrow
+gowatchseries.*##.click_comment
+gowatchseries.*##.comment
+gowatchseries.*##.disqus-comment-count.specialButton
+gowatchseries.*##.favorites
+gowatchseries.*##.footer
+gowatchseries.*##.notice
+gowatchseries.*##.repo.left
+gowatchseries.*##.socil_pluin > ul
+gowatchseries.*##.tweet
+gowatchseries.*###scroll-top-arrow
 www5.gowatchseries.bz##div.left:nth-of-type(5)
 wxii12.com##.header-inner:style(position: relative !important; top: 0 !important;)
 wykop.pl##.big.button, .rodo-alert
@@ -19130,66 +19130,66 @@ xe.com##.Spacer-s14s4ysu-1
 xe.com###siteHeader:style(position: relative !important; background-color: transparent !important;)
 xenonstack.com##.rocketchat-widget
 xenonstack.com###fixed-right-bar, .fixed.sticky.nav-header:style(position: relative !important; top: 0 !important;)
-xfantazy.com##.jss1232
-xfantazy.com##.jss1239
-xfantazy.com##.jss1284.MuiButton-text.MuiButton-root.MuiButtonBase-root
-xfantazy.com##.jss198.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
-xfantazy.com##.jss205.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
-xfantazy.com##.jss350
-xfantazy.com##.jss569
-xfantazy.com##.jss573.MuiButton-text.MuiButton-root.MuiButtonBase-root
-xfantazy.com##.jss787
-xfantazy.com##.jss794
-xfantazy.com##.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
-xfantazy.com##.MuiTypography-body1.jss163.MuiTypography-root
-xfantazy.com##.partwidg1
-xfantazy.com###fluid-videoplayer_fluid_control_playback_rate
-xfinity.com##._visible.x-ui-theme--dark.upsell-filter--top.upsell-filter.flex, .ad-container
-xfinity.com##.sidebar--fixed.sidebar.cart-provider, .sticky.search-container, xm-primary-nav:style(position: absolute !important;)
-xfinity.com###page-header:style(position: absolute !important; transform: none !important; background-color: #00619a !important;)
-xfinity.com##xhs-article-related:style(position: static !important;)
-xhamster.com##.controls > .report-control
-xhamster.com##.delay.collapse-dropdown.xh-dropdown.more-nav.nav-item
-xhamster.com##.delay.popup.xh-dropdown.upload-section-menu.upload-nav
-xhamster.com##.displayed-nav-item.pop-menu-live.delay.has-child.xh-dropdown.live-nav.nav-item
-xhamster.com##.displayed-nav-item.pop-menu-photo.delay.has-child.xh-dropdown.photo-nav.nav-item
-xhamster.com##.dropdown.dropdown-body > li > .item:has-text(Trans)
-xhamster.com##.favorites-control
-xhamster.com##.gay-new.orientation-name
-xhamster.com##.livesex
-xhamster.com##.login-section
-xhamster.com##.menu_upper
-xhamster.com##.my-comment
-xhamster.com##.no-transform
-xhamster.com##.orient
-xhamster.com##.overlay-open-share
-xhamster.com##.popup.positioned.favorites-control
-xhamster.com##.recomm-promo-banner
-xhamster.com##.share-control.gray.xh-button
-xhamster.com##.video_info
-xhamster.com##.wio-vspl-text.info_text
-xhamster.com##.xplayer-hover-menu
-xhamster.com##[href^="https://xhamster.com/premium/out"]
-xhamster.com##footer
-xhamster.com##li.displayed-nav-item.nav-item:nth-of-type(7)
-xhamster.com##li.displayed-nav-item.nav-item:nth-of-type(8)
-xinhuanet.com##.domPC.nav:style(position: relative !important; top: 0 !important;)
-xinhuanet.com##.xhapp
-xinhuanet.com###productBody:style(position: absolute !important;)
-xjavsub.com##.footer-menu-container
-xjavsub.com##.happy-inside-player
-xjavsub.com##.right > strong
-xjavsub.com##.site-info
-xjavsub.com##.video-infos-right
-xojane.com###follow_us_twitter-0, #sharing-0
-xojane.com###read_janes_diary-0
+xfantazy.*##.jss1232
+xfantazy.*##.jss1239
+xfantazy.*##.jss1284.MuiButton-text.MuiButton-root.MuiButtonBase-root
+xfantazy.*##.jss198.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
+xfantazy.*##.jss205.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
+xfantazy.*##.jss350
+xfantazy.*##.jss569
+xfantazy.*##.jss573.MuiButton-text.MuiButton-root.MuiButtonBase-root
+xfantazy.*##.jss787
+xfantazy.*##.jss794
+xfantazy.*##.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
+xfantazy.*##.MuiTypography-body1.jss163.MuiTypography-root
+xfantazy.*##.partwidg1
+xfantazy.*###fluid-videoplayer_fluid_control_playback_rate
+xfinity.*##._visible.x-ui-theme--dark.upsell-filter--top.upsell-filter.flex, .ad-container
+xfinity.*##.sidebar--fixed.sidebar.cart-provider, .sticky.search-container, xm-primary-nav:style(position: absolute !important;)
+xfinity.*###page-header:style(position: absolute !important; transform: none !important; background-color: #00619a !important;)
+xfinity.*##xhs-article-related:style(position: static !important;)
+xhamster.*##.controls > .report-control
+xhamster.*##.delay.collapse-dropdown.xh-dropdown.more-nav.nav-item
+xhamster.*##.delay.popup.xh-dropdown.upload-section-menu.upload-nav
+xhamster.*##.displayed-nav-item.pop-menu-live.delay.has-child.xh-dropdown.live-nav.nav-item
+xhamster.*##.displayed-nav-item.pop-menu-photo.delay.has-child.xh-dropdown.photo-nav.nav-item
+xhamster.*##.dropdown.dropdown-body > li > .item:has-text(Trans)
+xhamster.*##.favorites-control
+xhamster.*##.gay-new.orientation-name
+xhamster.*##.livesex
+xhamster.*##.login-section
+xhamster.*##.menu_upper
+xhamster.*##.my-comment
+xhamster.*##.no-transform
+xhamster.*##.orient
+xhamster.*##.overlay-open-share
+xhamster.*##.popup.positioned.favorites-control
+xhamster.*##.recomm-promo-banner
+xhamster.*##.share-control.gray.xh-button
+xhamster.*##.video_info
+xhamster.*##.wio-vspl-text.info_text
+xhamster.*##.xplayer-hover-menu
+xhamster.*##[href^="https://xhamster.*/premium/out"]
+xhamster.*##footer
+xhamster.*##li.displayed-nav-item.nav-item:nth-of-type(7)
+xhamster.*##li.displayed-nav-item.nav-item:nth-of-type(8)
+xinhuanet.*##.domPC.nav:style(position: relative !important; top: 0 !important;)
+xinhuanet.*##.xhapp
+xinhuanet.*###productBody:style(position: absolute !important;)
+xjavsub.*##.footer-menu-container
+xjavsub.*##.happy-inside-player
+xjavsub.*##.right > strong
+xjavsub.*##.site-info
+xjavsub.*##.video-infos-right
+xojane.*###follow_us_twitter-0, #sharing-0
+xojane.*###read_janes_diary-0
 xporno-link.translate.goog##.spot
 xporno-link.translate.goog###ec653e6b03
-xporno.name##.bmaHxDX-bounce-down.sticker_container
-xporno.name##.empty-search__title
-xporno.name##.footer
-xporno.name##.spot
-xporno.name###ec653e6b03
+xporno.*##.bmaHxDX-bounce-down.sticker_container
+xporno.*##.empty-search__title
+xporno.*##.footer
+xporno.*##.spot
+xporno.*###ec653e6b03
 yachtcharterfleet.com##.fixed.yacht-tabs-wrap:style(position: absolute !important;)
 yachtcharterfleet.com##.nav-down.show-for-small-only.header:style(position: relative !important; top: 0 !important;)
 yachtharbour.com##.header:style(position: absolute !important; padding: 25px 0 !important; background: linear-gradient(to bottom, rgba(4, 44, 95, 0.4) 0%, rgba(0, 0, 0, 0) 100%) !important; transform: none !important;)
@@ -19486,21 +19486,21 @@ youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageV
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
-www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell.feed-identity-module__anchored-widget.link-without-visited-state.app-aware-link
-www.linkedin.com##.premium-upsell-link
-www.linkedin.com##.mb3.p1.artdeco-card.ad-banner-container
-www.visaplace.com###band-cookies
-www.visaplace.com###bottom-cta
-www.visaplace.com##.animated.dialog-lightbox-widget-content.dialog-widget-content
-www.visaplace.com##.socially
-www.visaplace.com##.cta
-www.linkedin.com##.overflow-hidden.pt2.ad-banner-container
-www.linkedin.com##.mb4.p1.artdeco-card.ad-banner-container
-www.credly.com###onetrust-consent-sdk
-www.thelocal.dk##.tp-active.tp-iframe-wrapper
-www.thelocal.dk##.tp-modal
-www.thelocal.dk##.tp-active.tp-backdrop
-www.linkedin.com##.ad-banner-container
+linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell.feed-identity-module__anchored-widget.link-without-visited-state.app-aware-link
+linkedin.com##.premium-upsell-link
+linkedin.com##.mb3.p1.artdeco-card.ad-banner-container
+visaplace.com###band-cookies
+visaplace.com###bottom-cta
+visaplace.com##.animated.dialog-lightbox-widget-content.dialog-widget-content
+visaplace.com##.socially
+visaplace.com##.cta
+linkedin.com##.overflow-hidden.pt2.ad-banner-container
+linkedin.com##.mb4.p1.artdeco-card.ad-banner-container
+credly.com###onetrust-consent-sdk
+thelocal.dk##.tp-active.tp-iframe-wrapper
+thelocal.dk##.tp-modal
+thelocal.dk##.tp-active.tp-backdrop
+linkedin.com##.ad-banner-container
 $removeparam=&sclient
 en.certificationanswers.com##.site-inner > .adsbygoogle
 en.certificationanswers.com###cookie-law-info-bar
@@ -19508,8 +19508,8 @@ en.certificationanswers.com##.widget-visible
 ais.usvisa-info.com##.align-middle.flex-container.emergency-announcement
 glassdoor.*###HardsellOverlay
 glassdoor.*##body[style*="overflow"]:style(overflow-y: auto !important; height: auto !important; margin: unset !important;)
-www.deezer.com##.conversion-banner
-www.deezer.com##.naboo > .modal
+deezer.com##.conversion-banner
+deezer.com##.naboo > .modal
 heavyfetish.com##.sponsor
 heavyfetish.com##.table
 ||heavyfetish.com/static/images/main-banner.gif$image
@@ -19537,10 +19537,10 @@ youtube.com###foreground-content
 $removeparam=bp
 
 ! Remove Reddit NSFW blur filter without loggin in
-||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-desktop-*.js
-||www.redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
-||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
-||www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
+||redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-desktop-*.js
+||redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
+||redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
+||redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
 
 ! Use Reddit without log in
 reddit.com##xpromo-new-app-selector
@@ -19564,14 +19564,14 @@ spotify.com##.knqROz.Button-sc-qlcn5g-0
 spotify.com##.cabTyT.Button-sc-qlcn5g-0
 
 ! Remove heanti.tv ads
-hentai.tv##.justify-between.items-center.pr-3.px-3.pb-3.py-3.flex.-lg\:-mx-2.order-first.fr-mb
-hentai.tv##div.my-4.max-w-screen
-hentai.tv##.-on.daftplugPublicPushButton
+hentai.*##.justify-between.items-center.pr-3.px-3.pb-3.py-3.flex.-lg\:-mx-2.order-first.fr-mb
+hentai.*##div.my-4.max-w-screen
+hentai.*##.-on.daftplugPublicPushButton
 ! Remove "Close Ad" page on hentai.tv
-hentai.tv##+js(set-cookie, inter, 1, , reload, 1)
-hentai.tv##^responseheader(location)
-hentai.tv##.fr-mb
-hentai.tv##.max-w-screen
+hentai.*##+js(set-cookie, inter, 1, , reload, 1)
+hentai.*##^responseheader(location)
+hentai.*##.fr-mb
+hentai.*##.max-w-screen
 
 ! Block GTM
 ||trffk-assets.autotrader.ca
@@ -19628,5 +19628,6 @@ youtube.com##ytd-guide-downloads-entry-renderer.ytd-guide-collapsible-section-en
 youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scope
 
 ! Remove Cosmetic UI From YouTube Topbar (Create, Voice)
-www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
-www.youtube.com###voice-search-button > .ytd-masthead.style-scope
+youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
+youtube.com###voice-search-button > .ytd-masthead.style-scope
+
