@@ -9698,21 +9698,6 @@ hamhigh.co.uk###subscriptionIframe
 hammocktown.com##.ts-fab-googleplus-link, .ts-fab-twitter-link, .us_skin_default.us_tac.us_share_buttons.us_wrapper
 hammocktown.com##.us_buttons_5.us_mobile_bar
 hammocktown.com##iframe
-hanime.tv##.active.mobile.htvad.mt-5.mb-5
-hanime.tv##.column.flex.action-bar.native_0.mobile.htvnad
-hanime.tv##.footer
-hanime.tv##.inter
-hanime.tv##.landing__content > .active.mobile.htvad.mb-5
-hanime.tv##.landing__content > div > .active.mobile.htvad.mb-5
-hanime.tv##.mt-2.column.flex.action-bar.native_1.mobile.htvnad1
-hanime.tv##.site-description
-hanime.tv##.user_comments__post
-hanime.tv##+js(set, Cookies.get, trueFunc)
-hanime.tv##div.nav-drawer-list.list:nth-of-type(3)
-hanime.tv##div.nav-drawer-list.list:nth-of-type(4)
-hanime.tv##div.nav-drawer-list.list:nth-of-type(5)
-! hanime.tv###add_to_playlist_btn
-! hanime.tv##.user-options
 hannaandersson.com##.clearfix.js-header.site-header:style(position: relative !important;)
 hannity.com##.affix.full.navTopadContainer:style(position: relative !important; top: 0 !important;)
 happyhealthymama.com###convertkit_form-2, .sw-pinit-button, .swp_social_panel
@@ -19631,3 +19616,14 @@ youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scope
 youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
 youtube.com###voice-search-button > .ytd-masthead.style-scope
 
+! hanime.tv Remove Close Ad Page
+! hanime.tv##+js(set, Cookies.get, trueFunc)
+
+! hanime.tv Remove Cosmetic Filter
+hanime.tv##div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy
+hanime.tv##.site-description
+hanime.tv##.footer
+hanime.tv##div.nav-drawer-list.list > div > .list__tile--link.list__tile:has-text(/Images|Apps|Resources|Advertising/)
+hanime.tv##div.nav-drawer-list.list:nth-of-type(6)
+hanime.tv##div.nav-drawer-list.list:nth-of-type(5)
+hanime.tv##.user_options__list.list > div > div > .list__tile--link.list__tile:has-text(/Download Apps|Join/)
