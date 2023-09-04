@@ -19496,6 +19496,7 @@ sp411.*##[href="https://onlygems.ch"]
 ||cdn01.sp411.cc/*banners/*$image
 xhamster.*##.button-b749f.color-indigo-3b728.root-3b728
 xhamster.*##.cookie-announce
+spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
 ! YouTube Shorts
 youtube.com##ytd-grid-video-renderer:has([href*="shorts"])
 youtube.com###dismissible:has([href*="shorts"])
