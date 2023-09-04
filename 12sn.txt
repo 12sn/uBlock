@@ -19419,6 +19419,60 @@ zwaveproducts.com###livechat-compact-container
 zycrypto.com##.widget_bloomwidget, .widget_facebook_likebox
 zyngaplayerforums.com##.Reactions
 zyngaplayerforums.com###footer:style(position: relative !important; top: 0 !important;)
+*###admobiletop
+*###admobilemiddle
+*###admobilebottom
+*###addesktoptop
+*###addesktopmiddle
+*###addesktopbottom
+*##.topAdContainter
+*##.bottomAdContainter
+*##.middleAdContainter
+*##.ad-tabSplit.clearfix.adContainer
+eporner.*##footer
+eporner.*##.footer-text
+eporner.*##.catheadtext
+noodlemagazine.*##.main > .container > div:nth-of-type(1)
+viptube.*##.livecams_main.container
+viptube.*##div.categories_box:nth-of-type(14)
+viptube.*###mobile-middle-1
+viptube.*##.menu_block_lc
+viptube.*##.lcb
+viptube.*###mobile-header-1
+viptube.*##.partner_text_link
+viptube.*###mobile-footer-1
+vikiporn.*##.top-spot
+vikiporn.*##.nav-mobile
+vikiporn.*##.bottom-spots
+vikiporn.*##.footer
+pervclips.*##.video-info.info_wrap > .top-spot
+pervclips.*##.main-holder > .top-spot
+pervclips.*##.footer
+pervclips.*##.wrapper-holder > .top-spot
+pornhub.*##.footerThumbs
+pornhub.*##.js-mainFooter
+pornhub.*##a.noImage.floatLeft.upperCase.blackBtn.buttonClass
+pornhub.*##a.js-menuAnalytics.halfWidth.menuLink
+pornhub.*##.footerContentWrapper
+leolist.*##.right-banners
+leolist.*##.sticky-side
+leolist.*##section.fa-section:nth-of-type(1)
+leolist.*##.footer
+leolist.*##.footer__human-rights
+leolist.*##.main-list-sponsors
+leolist.*##.menu-item-2830.menu-item-home.menu-item-object-custom.menu-item-type-custom.menu-item
+leolist.*##.menu-item-3219.menu-item-object-custom.menu-item-type-custom.menu-item
+leolist.*##.footer-home
+||w.soundcloud.com/player/$subdocument,domain=sp411.*
+sp411.*##.twitterfooter
+sp411.*###cometchat
+sp411.*##[src="//cdn01.sp411.cc/images/misc/vbulletin4_logo.png"]
+sp411.*###postlist > .right
+sp411.*###postlist > .left
+sp411.*##.dbtech_thanks_box
+sp411.*##[href="https://spdir.cc/"]
+||cdn01.sp411.cc/new-banners/*$image
+||cdn01.sp411.cc/*banners/*$image
 ! YouTube Shorts
 youtube.com##ytd-grid-video-renderer:has([href*="shorts"])
 youtube.com###dismissible:has([href*="shorts"])
