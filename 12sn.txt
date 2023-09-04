@@ -19441,6 +19441,15 @@ viptube.*##.lcb
 viptube.*###mobile-header-1
 viptube.*##.partner_text_link
 viptube.*###mobile-footer-1
+viptube.*##.nav > li:has-text(/Premium|Upload|Live/)
+viptube.*##.footer
+viptube.*##div.section:nth-of-type(3)
+viptube.*##.btn-secondary.ID_live_cam_wrapper
+viptube.*###spot_video_underplayer_livecams
+viptube.*##.button-under-video
+viptube.*##.watch > div:has-text(/Live/)
+viptube.*###spot_video_livecams
+viptube.*##div.stem_related.stem:nth-of-type(4)
 vikiporn.*##.top-spot
 vikiporn.*##.nav-mobile
 vikiporn.*##.bottom-spots
@@ -19454,6 +19463,13 @@ pornhub.*##.js-mainFooter
 pornhub.*##a.noImage.floatLeft.upperCase.blackBtn.buttonClass
 pornhub.*##a.js-menuAnalytics.halfWidth.menuLink
 pornhub.*##.footerContentWrapper
+pornhub.*##.removeAdLink.promoBannerClassAnchor
+pornhub.*##.noBottom.clearfix.adContainer
+pornhub.*##a.noImage.floatLeft.upperCase.blackBtn.buttonClass
+pornhub.*##.topAdContainter > .clearfix.adContainer
+pornhub.*###welcomeVideoMsg
+pornhub.*##div.clearfix.adContainer
+pornhub.*##.noBottom.clearfix.adContainer
 leolist.*##.right-banners
 leolist.*##.sticky-side
 leolist.*##section.fa-section:nth-of-type(1)
@@ -19470,9 +19486,16 @@ sp411.*##[src="//cdn01.sp411.cc/images/misc/vbulletin4_logo.png"]
 sp411.*###postlist > .right
 sp411.*###postlist > .left
 sp411.*##.dbtech_thanks_box
+sp411.*###navbar-alt
+sp411.*##.navtab:not(:has-text(/Forum|LeoList/))
+sp411.*###breadcrumb > .floatcontainer
 sp411.*##[href="https://spdir.cc/"]
+sp411.*##[href="https://algoapp.ca"]
+sp411.*##[href="https://onlygems.ch"]
 ||cdn01.sp411.cc/new-banners/*$image
 ||cdn01.sp411.cc/*banners/*$image
+xhamster.*##.button-b749f.color-indigo-3b728.root-3b728
+xhamster.*##.cookie-announce
 ! YouTube Shorts
 youtube.com##ytd-grid-video-renderer:has([href*="shorts"])
 youtube.com###dismissible:has([href*="shorts"])
