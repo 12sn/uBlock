@@ -15513,8 +15513,6 @@ spacenews.com###navs:style(position: relative !important; top: 0 !important;)
 spacesafetymagazine.com###st-launcher-tab, .flare
 spacex.com##.group-left:style(position: relative !important; top: 0 !important;)
 spam404.com##.birdseye-header:style(position: absolute !important;)
-spankbang.com##.auth.bt_signin
-spankbang.com##.auth.bt_signup
 spankbang.com##.bottom_nav > h3
 spankbang.com##.dl
 spankbang.com##.embed
