@@ -15532,6 +15532,7 @@ spankbang.com##.wl
 spankbang.com##[href="https://deliver.ptgncdn.com/zsrmNJZxOqnxefBDp5QJWNislRdnR0X6H_9LU8RGUazIPP2MzgDnWBIuGIz1_FAi_N19nFqyk"]
 spankbang.com##footer
 spankbang.com##nav:nth-of-type(2)
+*###admobileoutstream
 sparkboxstudio.com##.et_pb_row_3
 sparkboxstudio.com###main-header, #top-header:style(position: relative !important; top: 0 !important;)
 specsavers.co.uk###header, .ss-header:style(position: absolute !important; top: 0 !important;)
@@ -19450,6 +19451,11 @@ viptube.*##.button-under-video
 viptube.*##.watch > div:has-text(/Live/)
 viptube.*###spot_video_livecams
 viptube.*##div.stem_related.stem:nth-of-type(4)
+viptube.*###spot_video_partner_banner
+viptube.*##.drt-sponsor-data
+viptube.*##.drt-sponsor-block
+viptube.*##.premium
+viptube.*##.footer_adv
 vikiporn.*##.top-spot
 vikiporn.*##.nav-mobile
 vikiporn.*##.bottom-spots
