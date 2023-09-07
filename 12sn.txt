@@ -19501,6 +19501,7 @@ sp411.*##[href="https://onlygems.ch"]
 xhamster.*##.button-b749f.color-indigo-3b728.root-3b728
 xhamster.*##.cookie-announce
 spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
+walmart.*##.bottom-0.ph3-hdkp.nav-clickable-padded.items-center.justify-center.flex.sticky.white.bg-dark-primary
 ! YouTube Shorts
 youtube.com##ytd-grid-video-renderer:has([href*="shorts"])
 youtube.com###dismissible:has([href*="shorts"])
@@ -19709,3 +19710,6 @@ hanime.tv##div.nav-drawer-list.list > div > .list__tile--link.list__tile:has-tex
 hanime.tv##div.nav-drawer-list.list:nth-of-type(6)
 hanime.tv##div.nav-drawer-list.list:nth-of-type(5)
 hanime.tv##.user_options__list.list > div > div > .list__tile--link.list__tile:has-text(/Download Apps|Join/)
+
+!Remove Breaking News Section From YouTube
+youtube.com##.ytd-rich-shelf-renderer.style-scope:has-text(/Breaking news/)
