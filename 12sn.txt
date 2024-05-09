@@ -19461,9 +19461,11 @@ leolist.*##.footer-home
 leolist.*##section.mobile.fa-section:nth-of-type(1)
 leolist.*##div.group:nth-of-type(7)
 leolist.*##.lst-item.lst:has-text(Sponsored)
+leolist.*##.featured-item--banner.featured-prom-item.featured-item
 leolist.*##.featured-item--banner-native.featured-prom-item.featured-item
 leolist.*##.clearfix.copyright.text-center
 leolist.*##.mt.text-center
+www.leolist.cc##.featured-item--banner.featured-prom-item.featured-item
 www.leolist.cc##.featured-item--banner-native.featured-prom-item.featured-item
 www.leolist.cc##.clearfix.copyright.text-center
 www.leolist.cc##.mt.text-center
