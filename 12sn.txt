@@ -1,6 +1,6 @@
 [uBlock Origin v1.59.0]
 ! Title: 1️⃣2️⃣sn
-! Version: 1.51.0
+! Version: 1.59.0
 ! Last modified:
 ! Expires: 1 hour
 ! Homepage: https://raw.githubusercontent.com/12sn/uBlock/main/12sn.txt
