@@ -1,4 +1,4 @@
-[uBlock Origin v1.51.0]
+[uBlock Origin v1.59.0]
 ! Title: 1️⃣2️⃣sn
 ! Version: 1.51.0
 ! Last modified:
@@ -18821,16 +18821,6 @@ pogolinks.*###block-rating > .clearfix
 pogolinks.*###footer
 pogolinks.*###gift-top
 pogolinks.*###pc-fav
-pogolinks.*##.btn-login.btn-on-header.btn-sm.btn
-pogolinks.*##.float-left.btn-sm.btn-light.btn
-pogolinks.*##.float-right.btn-sm.btn-light.btn
-pogolinks.*##.mb-3.alert
-pogolinks.*##.modal-content
-pogolinks.*##.text-center.server-notice
-pogolinks.*###block-rating > .clearfix
-pogolinks.*###footer
-pogolinks.*###gift-top
-pogolinks.*###pc-fav
 pogolinks.*##.container
 pogolinks.*##div#imbut:nth-of-type(4)
 pogolinks.*###imbut
@@ -18846,30 +18836,10 @@ quitt.*###block-rating > .clearfix
 quitt.*###footer
 quitt.*###gift-top
 quitt.*###pc-fav
-quitt.*##.btn-login.btn-on-header.btn-sm.btn
-quitt.*##.float-left.btn-sm.btn-light.btn
-quitt.*##.float-right.btn-sm.btn-light.btn
-quitt.*##.mb-3.alert
-quitt.*##.modal-content
-quitt.*##.text-center.server-notice
-quitt.*###block-rating > .clearfix
-quitt.*###footer
-quitt.*###gift-top
-quitt.*###pc-fav
 quitt.*##div#imbut:nth-of-type(4)
 quitt.*###imbut
 quitt.*##.show.fade.modal-backdrop
 quitt.*###modalshare > .modal-dialog-centered.modal-dialog > .modal-content
-zoechip.*##.btn-login.btn-on-header.btn-sm.btn
-zoechip.*##.float-left.btn-sm.btn-light.btn
-zoechip.*##.float-right.btn-sm.btn-light.btn
-zoechip.*##.mb-3.alert
-zoechip.*##.modal-content
-zoechip.*##.text-center.server-notice
-zoechip.*###block-rating > .clearfix
-zoechip.*###footer
-zoechip.*###gift-top
-zoechip.*###pc-fav
 zoechip.*##.btn-login.btn-on-header.btn-sm.btn
 zoechip.*##.float-left.btn-sm.btn-light.btn
 zoechip.*##.float-right.btn-sm.btn-light.btn
@@ -19476,14 +19446,6 @@ pornhub.*##a.js-menuAnalytics.halfWidth.menuLink
 pornhub.*##.footerContentWrapper
 pornhub.*##.removeAdLink.promoBannerClassAnchor
 pornhub.*##.noBottom.clearfix.adContainer
-pornhub.*##a.noImage.floatLeft.upperCase.blackBtn.buttonClass
-pornhub.*##.topAdContainter > .clearfix.adContainer
-pornhub.*###welcomeVideoMsg
-pornhub.*##div.clearfix.adContainer
-pornhub.*##.noBottom.clearfix.adContainer
-pornhub.*##.removeAdLink.promoBannerClassAnchor
-pornhub.*##.noBottom.clearfix.adContainer
-pornhub.*##a.noImage.floatLeft.upperCase.blackBtn.buttonClass
 pornhub.*##.topAdContainter > .clearfix.adContainer
 pornhub.*###welcomeVideoMsg
 pornhub.*##div.clearfix.adContainer
@@ -19499,6 +19461,12 @@ leolist.*##.footer-home
 leolist.*##section.mobile.fa-section:nth-of-type(1)
 leolist.*##div.group:nth-of-type(7)
 leolist.*##.lst-item.lst:has-text(Sponsored)
+leolist.*##.featured-item--banner-native.featured-prom-item.featured-item
+leolist.*##.clearfix.copyright.text-center
+leolist.*##.mt.text-center
+www.leolist.cc##.featured-item--banner-native.featured-prom-item.featured-item
+www.leolist.cc##.clearfix.copyright.text-center
+www.leolist.cc##.mt.text-center
 ||w.soundcloud.com/player/$subdocument,domain=sp411.*
 sp411.*##.twitterfooter
 sp411.*###cometchat
@@ -19547,13 +19515,8 @@ youtube.com##ytd-thumbnail-overlay-time-status-renderer[overlay-style=SHORTS]:up
 youtube.com##a.yt-simple-endpoint.ytd-guide-entry-renderer[title=Shorts]:upward(ytd-guide-entry-renderer.ytd-guide-section-renderer)
 youtube.com###content > .ytd-rich-section-renderer.style-scope
 youtube.com###offer-module
-
-
-
 ! All comments expanded
 youtube.com###comment-content ytd-expander[should-use-number-of-lines][collapsed] > #content.ytd-expander:style(--ytd-expander-max-lines: none !important)
-
-
 ! Remove the "skeleton" shown before the page loads
 youtube.com##.skeleton
 youtube.com###info-skeleton
@@ -19566,7 +19529,6 @@ youtube.com###masthead-skeleton-icons
 ||youtube.com/s/desktop/*/cssbin/www-main-desktop-player-skeleton.css
 ||youtube.com/s/mobile/*/cssbin/www-main-mobile-watch-page-skeleton.css
 ||youtube.com/s/mobile/*/cssbin/www-main-mobile-player-skeleton.css
-
 ! Remove anti ad block from Youtube
 youtube.com###endpoint.yt-simple-endpoint.ytd-guide-entry-renderer[title="Shorts"]
 youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
@@ -19605,31 +19567,20 @@ open.spotify.com##div.ReactModalPortal:nth-of-type(9)
 hdtoday.tv###hgiks-top
 hdtoday.tv##.mb-3.alert
 hdtoday.tv###modalshare > .modal-dialog-centered.modal-dialog
-
-
 vidstream.*##body > div:nth-of-type(2)
 mcloud.*##body > div:nth-of-type(2)
 filemoon.*##body > div:nth-of-type(2)
 streamtape.*##body > div:nth-of-type(2)
-
 ! Remove YouTube Ad Block Popup
-youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
-youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
-youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
-youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
-
 ! Remove YouTube Homepage Premium Upsell Banner
 youtube.com###foreground-content
-
 ! Remove YouTube Logo Tracking Parma
 $removeparam=bp
-
 ! Remove Reddit NSFW blur filter without loggin in
 ||redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-desktop-*.js
 ||redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
 ||redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
 ||redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
-
 ! Use Reddit without log in
 reddit.com##xpromo-new-app-selector
 reddit.com##.bottom-bar, .XPromoBottomBar
@@ -19644,13 +19595,11 @@ reddit.com##xpromo-app-selector
 reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
 reddit.com##+js(aeld, touchmove)
 reddit.com##.XPromoPopupRplNew
-
 spotify.com##.sponsor-container
 spotify.com###Desktop_PanelContainer_Id
 spotify.com##.tippy-box
 spotify.com##.knqROz.Button-sc-qlcn5g-0
 spotify.com##.cabTyT.Button-sc-qlcn5g-0
-
 ! Remove heanti.tv ads
 hentai.tv##.justify-between.items-center.pr-3.px-3.pb-3.py-3.flex.-lg\:-mx-2.order-first.fr-mb
 hentai.tv##div.my-4.max-w-screen
@@ -19660,13 +19609,11 @@ hentai.tv##+js(set-cookie, inter, 1, , reload, 1)
 hentai.tv##^responseheader(location)
 hentai.tv##.fr-mb
 hentai.tv##.max-w-screen
-
 ! Block GTM
 ||trffk-assets.autotrader.ca
 ||googletagmanager.com
 googletagmanager.com^$script
 ||trffk-assets.autotrader.ca^$script
-
 ! myanimelist cosmatic filter
 myanimelist.*##.header-mini-banner.banner-header-anime-straming
 myanimelist.*##.ga-impression.ga-click.btn-mal-service
@@ -19674,7 +19621,6 @@ myanimelist.*##li.smaller:nth-of-type(6)
 myanimelist.*##.small2
 myanimelist.*##li.small:nth-of-type(2)
 myanimelist.*##.color-pc-constant.js-color-pc-constant.arrow_box.header-list-dropdown.header-menu-dropdown > ul > li:has-text(/Manga List/)
-
 ! 5 YouTube Videos Per Row
 youtube.com##.ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 5 !important)
 youtube.com###avatar.ytd-rich-grid-media
@@ -19704,24 +19650,19 @@ youtube.com##ytd-rich-grid-media[mini-mode], ytd-rich-section-renderer[mini-mode
 youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-item-margin: 4px; !important)
 youtube.com###contents.ytd-rich-shelf-renderer:has(#video-title.ytd-rich-grid-media):style(--ytd-rich-grid-item-margin: 4px; !important)
 youtube.com##ytd-thumbnail.ytd-rich-grid-media::before, ytd-playlist-thumbnail.ytd-rich-grid-media::before:style(background: none !important)
-
 ! Remove YouTube Player Button (Thanks, Clips, etc)
 youtube.com###sponsor-button
 youtube.com###flexible-item-buttons > ytd-button-renderer.ytd-menu-renderer.style-scope:nth-of-type(1)
 youtube.com##ytd-button-renderer.ytd-menu-renderer.style-scope:nth-of-type(2)
-
 ! Remove Cosmetic UI From YouTube Sidebar (YouTube Kids, YouTube Premium, Live, Fashion & beauty, Sport, News, Learning, Gaming, Download, Notificaion Bell)
 youtube.com##.ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Fashion|YouTube Kids|YouTube Premium|Live|Sport|News|Learning|Gaming/)
 youtube.com##ytd-guide-downloads-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope
 youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scope
-
 ! Remove Cosmetic UI From YouTube Topbar (Create, Voice)
 youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
 youtube.com###voice-search-button > .ytd-masthead.style-scope
-
 ! hanime.tv Remove Close Ad Page
 ! hanime.tv##+js(set, Cookies.get, trueFunc)
-
 ! hanime.tv Remove Cosmetic Filter
 hanime.tv##div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy
 hanime.tv##.site-description
@@ -19730,22 +19671,14 @@ hanime.tv##div.nav-drawer-list.list > div > .list__tile--link.list__tile:has-tex
 hanime.tv##div.nav-drawer-list.list:nth-of-type(6)
 hanime.tv##div.nav-drawer-list.list:nth-of-type(5)
 hanime.tv##.user_options__list.list > div > div > .list__tile--link.list__tile:has-text(/Download Apps|Join/)
-
 !Remove Breaking News Section From YouTube
 youtube.com##.ytd-rich-shelf-renderer.style-scope:has-text(/Breaking news/)
-
-
-
 curiocity.*##.js-consent-box.cookie-consent__box
 curiocity.*##.element-hidden--md-up.site-footer-ad
-
 pathmonk.*###pathmonk-widget-iframe
-
-
 ebony8.*##.spot
 ww2.chinababe.net##.clipxx
 starwank.*##.top > center
 spankbang.*##.video-inline-ads
 spankbang.*##.ptgncdn_holder_footer.ptgncdn_holder
-
 braflix.*##.gap-x-1.text-sm.items-center.flex
