@@ -13749,14 +13749,18 @@ pinkvilla.com##.nav-wrapper.navbar-fixed-top.navbar-default.navbar:style(positio
 pinnacle.com##[class*="style_cookieBanner__"]
 pinterest.com#@#[href*="pinterest.com/js/pinmarklet.js?"]
 pinterest.com#@#[href*="pinterest.com/pin/create/button/"]
-pinterest.com##.AppInterstitial, .AppUpsellHeader__background, .ReactModalPortal, .denzelAppInterstitial
-pinterest.com##.bottom.Module.BlueAppBanner
-pinterest.com##.fixed.fixedHeader:style(position: relative !important; top: 0 !important;)
-pinterest.com##.UserProfilePage:style(margin-top: 65px !important;)
-pinterest.com###HeaderContent, .active.noButtonStyles > div, body div[style^="position: fixed;"]:style(position: absolute !important;)
-pinterest.com##body:style(position: unset !important;)
-pinterest.com##main > article > section > div h4:has-text(/Heads up: This might be sensitive content/):upward(4)
-pinterest.com##section[data-test-id="pinHeader"]:style(filter: unset !important;)
+pinterest.*#@#[href*="pinterest.*/js/pinmarklet.js?"]
+pinterest.*#@#[href*="pinterest.*/pin/create/button/"]
+pinterest.*##.AppInterstitial, .AppUpsellHeader__background, .ReactModalPortal, .denzelAppInterstitial
+pinterest.*##.bottom.Module.BlueAppBanner
+pinterest.*##.fixed.fixedHeader:style(position: relative !important; top: 0 !important;)
+pinterest.*##.UserProfilePage:style(margin-top: 65px !important;)
+pinterest.*###HeaderContent, .active.noButtonStyles > div, body div[style^="position: fixed;"]:style(position: absolute !important;)
+pinterest.*##body:style(position: unset !important;)
+pinterest.*##main > article > section > div h4:has-text(/Heads up: This might be sensitive content/):upward(4)
+pinterest.*##section[data-test-id="pinHeader"]:style(filter: unset !important;)
+pinterest.*##div.Hb7.MIw.Yl-:nth-of-type(3) > div > .Hsu.iyn.zI7 > .Hsu.iyn.zI7 > .Hsu.iyn.zI7.sLG.jzS.XiG.Jea > .Hsu.iyn.zI7
+pinterest.*##div.Hb7.MIw.Yl-:nth-of-type(3)
 pionline.com###related-content
 piriform.com##.band--newsletter, .newsletter-signup
 piriform.com##.page-foot__social
@@ -18885,6 +18889,7 @@ zoechip.*##.show.modal-backdrop
 fmovies.*##.main > .text-center.mb-3
 fmovies.*##.mt-4
 fmovies.*##.mt-3
+fmoviesz.*##.main > .text-center.mb-3
 hurawatch.*##.mt-4
 hurawatch.*##.mt-3
 adexchanger.com##.adex-ad-text
@@ -19079,6 +19084,8 @@ youtube.com###donation-shelf
 !! youtube.com##ytd-clarification-renderer.ytd-item-section-renderer.style-scope
 youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
 !! youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+youtube.*##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
+youtube.*##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(2)
 www2.hm.com##.ot-sdk-container
 gowatchseries.*##.click_comment
 gowatchseries.*##.comment
@@ -19474,6 +19481,12 @@ pornhub.*##.topAdContainter > .clearfix.adContainer
 pornhub.*###welcomeVideoMsg
 pornhub.*##div.clearfix.adContainer
 pornhub.*##.noBottom.clearfix.adContainer
+pornhub.*##.removeAdLink.promoBannerClassAnchor
+pornhub.*##.noBottom.clearfix.adContainer
+pornhub.*##a.noImage.floatLeft.upperCase.blackBtn.buttonClass
+pornhub.*##.topAdContainter > .clearfix.adContainer
+pornhub.*###welcomeVideoMsg
+pornhub.*##div.clearfix.adContainer
 leolist.*##.right-banners
 leolist.*##.sticky-side
 leolist.*##section.fa-section:nth-of-type(1)
@@ -19483,6 +19496,9 @@ leolist.*##.main-list-sponsors
 leolist.*##.menu-item-2830.menu-item-home.menu-item-object-custom.menu-item-type-custom.menu-item
 leolist.*##.menu-item-3219.menu-item-object-custom.menu-item-type-custom.menu-item
 leolist.*##.footer-home
+leolist.*##section.mobile.fa-section:nth-of-type(1)
+leolist.*##div.group:nth-of-type(7)
+leolist.*##.lst-item.lst:has-text(Sponsored)
 ||w.soundcloud.com/player/$subdocument,domain=sp411.*
 sp411.*##.twitterfooter
 sp411.*###cometchat
@@ -19492,6 +19508,7 @@ sp411.*###postlist > .left
 sp411.*##.dbtech_thanks_box
 sp411.*###navbar-alt
 sp411.*##.navtab:not(:has-text(/Forum|LeoList/))
+sp411.*###ad_thread_last_post_content
 sp411.*###breadcrumb > .floatcontainer
 sp411.*##[href="https://spdir.cc/"]
 sp411.*##[href="https://algoapp.ca"]
@@ -19528,6 +19545,8 @@ youtube.com##yt-formatted-string:has-text(/#shorts/):upward(ytd-rich-item-render
 youtube.com##ytd-thumbnail-overlay-time-status-renderer[overlay-style=SHORTS]:upward(ytd-grid-video-renderer.ytd-grid-renderer)
 youtube.com##ytd-thumbnail-overlay-time-status-renderer[overlay-style=SHORTS]:upward(ytd-video-renderer.ytd-item-section-renderer)
 youtube.com##a.yt-simple-endpoint.ytd-guide-entry-renderer[title=Shorts]:upward(ytd-guide-entry-renderer.ytd-guide-section-renderer)
+youtube.com###content > .ytd-rich-section-renderer.style-scope
+youtube.com###offer-module
 
 
 
@@ -19556,6 +19575,7 @@ youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell.feed-identity-module__anchored-widget.link-without-visited-state.app-aware-link
 linkedin.com##.premium-upsell-link
+linkedin.*###promo-upsell > .overlay
 linkedin.com##.mb3.p1.artdeco-card.ad-banner-container
 visaplace.com###band-cookies
 visaplace.com###bottom-cta
@@ -19713,3 +19733,19 @@ hanime.tv##.user_options__list.list > div > div > .list__tile--link.list__tile:h
 
 !Remove Breaking News Section From YouTube
 youtube.com##.ytd-rich-shelf-renderer.style-scope:has-text(/Breaking news/)
+
+
+
+curiocity.*##.js-consent-box.cookie-consent__box
+curiocity.*##.element-hidden--md-up.site-footer-ad
+
+pathmonk.*###pathmonk-widget-iframe
+
+
+ebony8.*##.spot
+ww2.chinababe.net##.clipxx
+starwank.*##.top > center
+spankbang.*##.video-inline-ads
+spankbang.*##.ptgncdn_holder_footer.ptgncdn_holder
+
+braflix.*##.gap-x-1.text-sm.items-center.flex
