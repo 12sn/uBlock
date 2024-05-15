@@ -18986,7 +18986,7 @@ sp411.cc##.wrap
 sp411.cc###ad_thread_first_post_content
 sp411.cc##div.after_content
 sp411.cc##small
-sp411.cc##span:nth-of-type(1)
+!sp411.cc##span:nth-of-type(1) !Timestamp of post
 sxyprn.net##.account_bar
 sxyprn.net##.account_bar > .transition.acc_char
 sxyprn.net##.comment_ta_wrap
