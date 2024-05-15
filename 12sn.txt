@@ -18977,16 +18977,6 @@ reddit.com###t3_l4jt55
 reddit.com###t3_l4jt55 > .Post__link
 reddit.com##div button:has-text(/Back to top/)
 searchenginejournal.com##.sej-hello-bar
-sp411.cc##.custom_header_text_1
-sp411.cc##.notices
-sp411.cc##.padding20.block
-sp411.cc##.partybanner
-sp411.cc##.postfoot
-sp411.cc##.wrap
-sp411.cc###ad_thread_first_post_content
-sp411.cc##div.after_content
-sp411.cc##small
-!sp411.cc##span:nth-of-type(1) !Timestamp of post
 sxyprn.net##.account_bar
 sxyprn.net##.account_bar > .transition.acc_char
 sxyprn.net##.comment_ta_wrap
@@ -19469,6 +19459,15 @@ www.leolist.cc##.featured-item--banner.featured-prom-item.featured-item
 www.leolist.cc##.featured-item--banner-native.featured-prom-item.featured-item
 www.leolist.cc##.clearfix.copyright.text-center
 www.leolist.cc##.mt.text-center
+sp411.cc##.custom_header_text_1
+sp411.cc##.notices
+sp411.cc##.padding20.block
+sp411.cc##.partybanner
+sp411.cc##.postfoot
+sp411.cc##.wrap
+sp411.cc###ad_thread_first_post_content
+sp411.cc##div.after_content
+sp411.cc##small
 ||w.soundcloud.com/player/$subdocument,domain=sp411.*
 sp411.*##.twitterfooter
 sp411.*###cometchat
@@ -19485,6 +19484,10 @@ sp411.*##[href="https://algoapp.ca"]
 sp411.*##[href="https://onlygems.ch"]
 ||cdn01.sp411.cc/new-banners/*$image
 ||cdn01.sp411.cc/*banners/*$image
+www.sp411.cc##.postbody > div > span > .livechat_button
+!sp411.cc##span:nth-of-type(1) !Timestamp of post
+! sp411.cc description logos
+www.sp411.cc##.postbody > div:nth-of-type(4) > span:nth-of-type(1) 
 xhamster.*##.button-b749f.color-indigo-3b728.root-3b728
 xhamster.*##.cookie-announce
 spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
