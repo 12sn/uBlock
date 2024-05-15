@@ -19485,6 +19485,8 @@ sp411.*##[href="https://onlygems.ch"]
 ||cdn01.sp411.cc/new-banners/*$image
 ||cdn01.sp411.cc/*banners/*$image
 www.sp411.cc##.postbody > div > span > .livechat_button
+www.sp411.cc##.postbody > div:nth-of-type(4) > span:nth-of-type(1)
+www.sp411.cc##.postcontainer.postbitlegacy:has-text(/ADS/)
 !sp411.cc##span:nth-of-type(1) !Timestamp of post
 ! sp411.cc description logos
 www.sp411.cc##.postbody > div:nth-of-type(4) > span:nth-of-type(1) 
