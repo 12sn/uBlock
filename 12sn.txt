@@ -19689,3 +19689,12 @@ starwank.*##.top > center
 spankbang.*##.video-inline-ads
 spankbang.*##.ptgncdn_holder_footer.ptgncdn_holder
 braflix.*##.gap-x-1.text-sm.items-center.flex
+^$removeparam=*
+*$removeparam=_encoding
+*$removeparam=pd_rd_w
+*$removeparam=content-id
+*$removeparam=pf_rd_p
+*$removeparam=pf_rd_r
+*$removeparam=pd_rd_wg
+*$removeparam=pd_rd_r
+*$removeparam=ref_
